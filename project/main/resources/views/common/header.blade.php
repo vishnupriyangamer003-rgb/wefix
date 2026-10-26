@@ -61,7 +61,7 @@
             display: inline-flex !important;
             align-items: center;
             font-size: 24px;
-            color: var(--roofsie-base, #caa756);
+            color: var(--roofsie-base, #dfa528);
             padding: 20px 0;
             cursor: pointer;
         }
@@ -84,7 +84,7 @@
 <header class="main-header clearfix">
     <div class="main-header__logo">
         <a href="{{ url('/') }}" class="main-header__logo-box">
-            <img class="main-header__logo-bg" src="{{ asset('assets/images/resources/logo-badge-bg.png') }}?v=gold1" alt="WEFIX Badge Background">
+            <img class="main-header__logo-bg" src="{{ asset('assets/images/resources/logo-badge-bg.png') }}?v=gold2" alt="WEFIX Badge Background">
             <img class="main-header__logo-img" src="{{ asset('assets/images/resources/logo.png') }}" alt="WEFIX Logo">
         </a>
     </div>

@@ -40,16 +40,245 @@
     <link rel="stylesheet" href="{{ asset('assets/vendors/timepicker/timePicker.css') }}">
 
     <!-- Template CSS -->
-    <link rel="stylesheet" href="{{ asset('assets/css/roofsie.css') }}?v=gold1">
-    <link rel="stylesheet" href="{{ asset('assets/css/roofsie-responsive.css') }}?v=gold1">
+    <link rel="stylesheet" href="{{ asset('assets/css/roofsie.css') }}?v=gold2">
+    <link rel="stylesheet" href="{{ asset('assets/css/roofsie-responsive.css') }}?v=gold2">
 
     <style>
         :root {
-            --roofsie-base: #caa756 !important;
-            --roofsie-base-rgb: 202, 167, 86 !important;
+            --roofsie-base: #dfa528 !important;
+            --roofsie-base-rgb: 223, 165, 40 !important;
+            --roofsie-gold: #dfa528 !important;
+            --roofsie-gold-light: #f5c754 !important;
+            --roofsie-gold-dark: #b88612 !important;
+            --roofsie-gold-glow: rgba(223, 165, 40, 0.45) !important;
         }
+
         .preloader {
             display: none !important;
+        }
+
+        /* ========================================================
+           IMPORTANT BACKGROUNDS (Vibrant Logo Gold)
+           ======================================================== */
+        .cta-one {
+            background-color: var(--roofsie-base) !important;
+            background: linear-gradient(135deg, #dfa528 0%, #b88612 100%) !important;
+        }
+
+        .about-one__satisfied-content,
+        .services-three__icon,
+        .feature-one__icon,
+        .why-choose-two__list-one li .icon,
+        .why-choose-two__list-two li .icon,
+        .scroll-to-top,
+        .thm-swiper__slider .swiper-pagination-bullet-active,
+        .project-three__carousel.owl-carousel .owl-dots .owl-dot.active span {
+            background-color: var(--roofsie-base) !important;
+        }
+
+        .services-three__icon {
+            box-shadow: 0 8px 24px rgba(223, 165, 40, 0.35) !important;
+        }
+
+        .feature-one__icon:before {
+            border-bottom-color: var(--roofsie-base) !important;
+        }
+
+        .why-choose-two__list-one li .icon:before {
+            border-left-color: var(--roofsie-base) !important;
+        }
+
+        .why-choose-two__list-two li .icon:before {
+            border-right-color: var(--roofsie-base) !important;
+        }
+
+        .section-sub-title,
+        .about-two__text-1,
+        .services-three__sub-title {
+            color: var(--roofsie-base) !important;
+        }
+
+        /* ========================================================
+           BUTTON HOVER STATES (Golden Hover, Not Black)
+           ======================================================== */
+        .thm-btn {
+            background-color: var(--roofsie-base) !important;
+            color: #ffffff !important;
+            border: none !important;
+            transition: all 0.4s ease !important;
+        }
+
+        /* Golden slide-in for standard thm-btn */
+        .thm-btn:before {
+            background-color: var(--roofsie-gold-dark) !important;
+        }
+
+        .thm-btn:hover {
+            background-color: var(--roofsie-gold-dark) !important;
+            color: #ffffff !important;
+            box-shadow: 0 8px 24px var(--roofsie-gold-glow) !important;
+        }
+
+        .thm-btn i {
+            color: var(--roofsie-base) !important;
+            background-color: #ffffff !important;
+        }
+
+        .thm-btn:hover i {
+            color: var(--roofsie-gold-dark) !important;
+            background-color: #ffffff !important;
+        }
+
+        /* CTA section button on gold background */
+        .cta-one__btn {
+            background-color: #1c1b1f !important;
+            color: #ffffff !important;
+        }
+
+        .cta-one__btn:before {
+            background-color: #ffffff !important;
+        }
+
+        .cta-one__btn:hover {
+            background-color: #ffffff !important;
+            color: var(--roofsie-base) !important;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.35) !important;
+        }
+
+        .cta-one__btn i {
+            background-color: #ffffff !important;
+            color: #1c1b1f !important;
+        }
+
+        .cta-one__btn:hover i {
+            background-color: var(--roofsie-base) !important;
+            color: #ffffff !important;
+        }
+
+        /* ========================================================
+           ALL NAVIGATION & LINK HOVER STATES (Golden Glow & Accent)
+           ======================================================== */
+        a:hover {
+            color: var(--roofsie-base) !important;
+        }
+
+        /* Main Menu items */
+        .main-menu .main-menu__list > li:hover > a,
+        .main-menu .main-menu__list > li.current > a,
+        .stricky-header .main-menu__list > li:hover > a,
+        .stricky-header .main-menu__list > li.current > a,
+        .main-menu .main-menu__list > li > ul > li:hover > a,
+        .main-menu .main-menu__list > li > ul > li.current > a {
+            color: var(--roofsie-base) !important;
+        }
+
+        .main-menu .main-menu__list > li > a:before,
+        .stricky-header .main-menu__list > li > a:before {
+            background-color: var(--roofsie-base) !important;
+        }
+
+        /* Header top & contact */
+        .main-header__top-address-list li .text a:hover,
+        .main-header__top-menu li a:hover,
+        .main-header__top-social a:hover,
+        .main-menu__call-content a:hover,
+        .main-menu__search:hover,
+        .mobile-nav__toggler:hover {
+            color: var(--roofsie-base) !important;
+        }
+
+        /* Feature section hovers */
+        .feature-one__single:hover {
+            box-shadow: 0 15px 35px rgba(223, 165, 40, 0.18) !important;
+        }
+
+        .feature-one__single:hover .feature-one__title a,
+        .feature-one__read-more a:hover {
+            color: var(--roofsie-base) !important;
+        }
+
+        /* Services section hovers */
+        .services-three__title a:hover {
+            color: var(--roofsie-base) !important;
+        }
+
+        .services-three__single:hover .services-three__icon {
+            background-color: var(--roofsie-gold-dark) !important;
+            box-shadow: 0 0 25px rgba(223, 165, 40, 0.7) !important;
+            transform: translateX(-50%) scale(1.08) !important;
+        }
+
+        /* Why Choose Us list items on hover */
+        .why-choose-two__read-more a:hover,
+        .why-choose-two__list-one li .content h4 a:hover,
+        .why-choose-two__list-two li .content h4 a:hover {
+            color: var(--roofsie-base) !important;
+        }
+
+        .why-choose-two__list-one li:hover .icon,
+        .why-choose-two__list-two li:hover .icon {
+            background-color: var(--roofsie-gold-dark) !important;
+            color: #ffffff !important;
+            box-shadow: 0 8px 25px rgba(223, 165, 40, 0.5) !important;
+            transform: scale(1.05) !important;
+        }
+
+        .why-choose-two__list-one li:hover .icon:before {
+            border-left-color: var(--roofsie-gold-dark) !important;
+        }
+
+        .why-choose-two__list-two li:hover .icon:before {
+            border-right-color: var(--roofsie-gold-dark) !important;
+        }
+
+        /* Projects carousel hover */
+        .project-three__title a:hover {
+            color: var(--roofsie-base) !important;
+        }
+
+        .project-three__arrow a:hover {
+            background-color: var(--roofsie-base) !important;
+            color: #ffffff !important;
+        }
+
+        .project-three__single:hover .project-three__img:after {
+            background-image: -webkit-linear-gradient(90deg, rgba(223, 165, 40, 0.88) 0%, rgba(28, 27, 31, 0) 65%) !important;
+            background-image: linear-gradient(0deg, rgba(223, 165, 40, 0.88) 0%, rgba(28, 27, 31, 0) 65%) !important;
+        }
+
+        /* Footer Links & Social hovers */
+        .footer-widget__explore-list li a:hover {
+            color: var(--roofsie-base) !important;
+            padding-left: 6px;
+        }
+
+        .footer-widget__contact-list li .text a:hover,
+        .site-footer__bottom-text a:hover {
+            color: var(--roofsie-base) !important;
+        }
+
+        .site-footer__social a:hover {
+            background-color: var(--roofsie-base) !important;
+            color: #1c1b1f !important;
+            box-shadow: 0 4px 18px var(--roofsie-gold-glow) !important;
+            transform: translateY(-3px);
+        }
+
+        .site-footer__social a:hover:after {
+            background-color: var(--roofsie-base) !important;
+        }
+
+        /* Slider navigation arrows hover */
+        .main-slider-two__nav .swiper-button-prev:hover,
+        .main-slider-two__nav .swiper-button-next:hover {
+            background-color: var(--roofsie-base) !important;
+            color: #ffffff !important;
+        }
+
+        /* Scroll to top hover */
+        .scroll-to-top:hover {
+            background-color: var(--roofsie-gold-dark) !important;
+            box-shadow: 0 0 20px var(--roofsie-gold-glow) !important;
         }
     </style>
 

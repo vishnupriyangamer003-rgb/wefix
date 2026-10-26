@@ -36,7 +36,7 @@
                             <img src="{{ asset('assets/images/resources/wefix-logo.jpeg') }}" alt="WEFIX Logo" style="max-height: 55px; border-radius: 6px; margin-right: 12px; background: #fff; padding: 2px;">
                             <div>
                                 <h3 style="color: #fff; font-weight: 800; font-size: 1.5rem; margin: 0; line-height: 1;">WEFIX</h3>
-                                <small style="color: var(--roofsie-base, #caa756); font-weight: 600; text-transform: uppercase;">Fabrication & Structural</small>
+                                <small style="color: var(--roofsie-base, #dfa528); font-weight: 600; text-transform: uppercase;">Fabrication & Structural</small>
                             </div>
                         </div>
                         <div class="footer-widget__about-text-box">
