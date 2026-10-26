@@ -4,41 +4,98 @@
 
 @section('content')
 <!--Main Slider Start-->
-<section class="main-slider clearfix" style="position: relative; background: #161c2d; padding: 100px 0 120px 0; color: #fff;">
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-xl-7 col-lg-8">
-                <div class="main-slider__content">
-                    <span class="d-inline-block px-3 py-1 mb-3 rounded-pill" style="background: rgba(242, 100, 34, 0.15); color: #f26422; font-weight: 700; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px;">
-                        ★ Expert Steel Engineering & Fabrication
-                    </span>
-                    <h1 style="color: #fff; font-weight: 800; font-size: clamp(2.5rem, 5vw, 4rem); line-height: 1.15; margin-bottom: 20px;">
-                        Reliable <span style="color: #f26422;">Fabrication</span> & Structural Solutions
-                    </h1>
-                    <p style="color: #b0bac9; font-size: 1.15rem; margin-bottom: 35px; max-width: 600px;">
-                        WEFIX provides industrial shed erection, commercial roofing, heavy structural steel fabrication, and custom engineering works in Karur and across Tamil Nadu.
-                    </p>
-                    <div class="d-flex flex-wrap gap-3 align-items-center">
-                        <a href="tel:9843722055" class="thm-btn" style="background: #f26422; color: #fff; padding: 14px 32px; border-radius: 6px; font-weight: 700; text-decoration: none;">
-                            <i class="fa fa-phone-alt me-2"></i> Call 9843722055
-                        </a>
-                        <a href="#services" class="thm-btn" style="background: transparent; color: #fff; border: 2px solid #ffffff40; padding: 12px 28px; border-radius: 6px; font-weight: 600; text-decoration: none;">
-                            Explore Services <i class="fa fa-arrow-right ms-2"></i>
-                        </a>
+<section class="main-slider-two clearfix">
+    <div class="swiper-container thm-swiper__slider" data-swiper-options='{"slidesPerView": 1, "loop": true,
+        "effect": "fade",
+        "pagination": {
+            "el": "#main-slider-pagination",
+            "type": "bullets",
+            "clickable": true
+        },
+        "navigation": {
+            "nextEl": "#main-slider__swiper-button-next",
+            "prevEl": "#main-slider__swiper-button-prev"
+        },
+        "autoplay": {
+            "delay": 5000
+        }}'>
+        <div class="swiper-wrapper">
+
+            <div class="swiper-slide">
+                <div class="image-layer-two" style="background-image: url({{ asset('assets/images/backgrounds/main-slider-2-1.jpg') }});"></div>
+                <!-- /.image-layer -->
+
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-12">
+                            <div class="main-slider-two__content">
+                                <div class="main-slider-two__icon">
+                                    <img src="{{ asset('assets/images/icon/main-slider-arrow.png') }}" alt="Arrow">
+                                </div>
+                                <h2 class="main-slider-two__title">Quality Fabrication & <br> Industrial Roofing</h2>
+                                <div class="main-slider-two__btn-box">
+                                    <a href="{{ url('/#about') }}" class="thm-btn main-slider-two__btn"> <i class="fa fa-arrow-right"></i> Discover more</a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="col-xl-5 col-lg-4 text-center mt-4 mt-lg-0">
-                <div style="background: #ffffff0a; border: 1px solid #ffffff15; border-radius: 16px; padding: 30px;">
-                    <img src="{{ asset('assets/images/resources/wefix-logo.jpeg') }}" alt="WEFIX Karur" style="max-width: 220px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.4);" class="img-fluid mb-4">
-                    <h3 style="color: #fff; font-weight: 700; margin-bottom: 8px;">WEFIX Karur</h3>
-                    <p style="color: #f26422; font-weight: 600; margin-bottom: 12px;">Fabrication, Structural works</p>
-                    <p style="color: #a0aec0; font-size: 0.95rem; margin: 0;">
-                        8/2,3-B1, Padma Nagar, Aruvankattanur, Manmangalam, Karur - 639006
-                    </p>
+
+            <div class="swiper-slide">
+                <div class="image-layer-two" style="background-image: url({{ asset('assets/images/backgrounds/main-slider-2-2.jpg') }});"></div>
+                <!-- /.image-layer -->
+
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-12">
+                            <div class="main-slider-two__content">
+                                <div class="main-slider-two__icon">
+                                    <img src="{{ asset('assets/images/icon/main-slider-arrow.png') }}" alt="Arrow">
+                                </div>
+                                <h2 class="main-slider-two__title">Heavy Structural Steel <br> & Factory Sheds</h2>
+                                <div class="main-slider-two__btn-box">
+                                    <a href="{{ url('/#contact') }}" class="thm-btn main-slider-two__btn"> <i class="fa fa-arrow-right"></i> Free Estimate</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
+
+            <div class="swiper-slide">
+                <div class="image-layer-two" style="background-image: url({{ asset('assets/images/backgrounds/main-slider-2-3.jpg') }});"></div>
+                <!-- /.image-layer -->
+
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-12">
+                            <div class="main-slider-two__content">
+                                <div class="main-slider-two__icon">
+                                    <img src="{{ asset('assets/images/icon/main-slider-arrow.png') }}" alt="Arrow">
+                                </div>
+                                <h2 class="main-slider-two__title">Expert Metal Roofing <br> & Engineering Works</h2>
+                                <div class="main-slider-two__btn-box">
+                                    <a href="{{ url('/#services') }}" class="thm-btn main-slider-two__btn"> <i class="fa fa-arrow-right"></i> Explore Services</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </div>
+
+        <!-- If we need navigation buttons -->
+        <div class="main-slider-two__nav">
+            <div class="swiper-button-prev" id="main-slider__swiper-button-next">
+                <i class="icon-left-arrow"></i>
+            </div>
+            <div class="swiper-button-next" id="main-slider__swiper-button-prev">
+                <i class="icon-right-arrow"></i>
+            </div>
+        </div>
+
     </div>
 </section>
 <!--Main Slider End-->
