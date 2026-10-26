@@ -40,10 +40,14 @@
     <link rel="stylesheet" href="{{ asset('assets/vendors/timepicker/timePicker.css') }}">
 
     <!-- Template CSS -->
-    <link rel="stylesheet" href="{{ asset('assets/css/roofsie.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/css/roofsie-responsive.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/roofsie.css') }}?v=gold1">
+    <link rel="stylesheet" href="{{ asset('assets/css/roofsie-responsive.css') }}?v=gold1">
 
     <style>
+        :root {
+            --roofsie-base: #caa756 !important;
+            --roofsie-base-rgb: 202, 167, 86 !important;
+        }
         .preloader {
             display: none !important;
         }

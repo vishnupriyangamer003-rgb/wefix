@@ -4,6 +4,11 @@ Records meaningful architectural updates, component integrations, and fixes.
 
 ---
 
+### [2026-10-26] - Gold Theme Transformation (Branch: theme-gold)
+- **Branch**: `theme-gold`
+- **Files**: `roofsie.css`, `layouts/app.blade.php`, `common/header.blade.php`, `common/footer.blade.php`, `logo-badge-bg.png`, `section-title-shape-1.png`
+- **Details**: Switched site primary brand accent color from template red (`#ff4f47`) to the WEFIX logo gold (`#caa756` / RGB: `202, 167, 86`). Updated CSS root variables, gradient stops, shape tints, and the logo badge bottom chevron accent.
+
 ### [2026-10-26] - Latest Projects Carousel Integration
 - **File**: `project/main/resources/views/welcome.blade.php`
 - **Details**: Sourced `project-three` Owl carousel from `theme/roofsie-html/main-html/index3.html`. Integrated responsive carousel with project cards (`project-3-1.jpg` to `project-3-4.jpg`), lightbox popup arrow buttons, carousel dot navigation, and continuous dark header continuity from `why-choose-two`.
