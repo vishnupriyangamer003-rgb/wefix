@@ -101,41 +101,73 @@
 <!--Main Slider End-->
 
 <!--Feature One Start-->
-<section class="feature-one py-5" style="background: #f8fafd;">
+<section class="feature-one">
     <div class="container">
-        <div class="row">
-            <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
-                <div class="feature-one__single" style="background: #fff; border-radius: 12px; padding: 35px 25px; box-shadow: 0 5px 20px rgba(0,0,0,0.05); margin-bottom: 30px;">
-                    <div class="feature-one__icon mb-3" style="color: #f26422; font-size: 2.2rem;">
-                        <i class="fas fa-warehouse"></i>
-                    </div>
-                    <h3 style="font-size: 1.35rem; font-weight: 700; margin-bottom: 12px;">Industrial Sheds</h3>
-                    <p style="color: #718096; margin: 0; line-height: 1.6;">
-                        Complete design, fabrication, and on-site erection of heavy-duty industrial warehouses, factory sheds, and workshops.
-                    </p>
-                </div>
+        <div class="feature-one__inner">
+            <div class="feature-one__dot">
+                <img src="{{ asset('assets/images/shapes/feature-one-dot.png') }}" alt="">
             </div>
-            <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
-                <div class="feature-one__single" style="background: #fff; border-radius: 12px; padding: 35px 25px; box-shadow: 0 5px 20px rgba(0,0,0,0.05); margin-bottom: 30px;">
-                    <div class="feature-one__icon mb-3" style="color: #f26422; font-size: 2.2rem;">
-                        <i class="fas fa-hammer"></i>
+            <div class="row">
+                <!--Feature One Single Start-->
+                <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
+                    <div class="feature-one__single">
+                        <div class="feature-one__top">
+                            <div class="feature-one__icon">
+                                <span class="icon-roof-5"></span>
+                            </div>
+                            <div class="feature-one__title-box">
+                                <h3 class="feature-one__title"><a href="{{ url('/#about') }}">Quality <br> materials</a></h3>
+                            </div>
+                        </div>
+                        <div class="feature-one__single-inner">
+                            <p class="feature-one__text">Nullam neque augue, maximus id nulla id, dignissim tristique nunc.</p>
+                            <div class="feature-one__read-more">
+                                <a href="{{ url('/#about') }}">Read More <i class="fa fa-arrow-right"></i></a>
+                            </div>
+                        </div>
                     </div>
-                    <h3 style="font-size: 1.35rem; font-weight: 700; margin-bottom: 12px;">Structural Steel</h3>
-                    <p style="color: #718096; margin: 0; line-height: 1.6;">
-                        High-strength steel framing, trusses, purlins, pillars, and engineered metal framing built for longevity.
-                    </p>
                 </div>
-            </div>
-            <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
-                <div class="feature-one__single" style="background: #fff; border-radius: 12px; padding: 35px 25px; box-shadow: 0 5px 20px rgba(0,0,0,0.05); margin-bottom: 30px;">
-                    <div class="feature-one__icon mb-3" style="color: #f26422; font-size: 2.2rem;">
-                        <i class="fas fa-shield-alt"></i>
+                <!--Feature One Single End-->
+                <!--Feature One Single Start-->
+                <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
+                    <div class="feature-one__single">
+                        <div class="feature-one__top">
+                            <div class="feature-one__icon">
+                                <span class="icon-construction-worker"></span>
+                            </div>
+                            <div class="feature-one__title-box">
+                                <h3 class="feature-one__title"><a href="{{ url('/#team') }}">Professional <br> workers</a></h3>
+                            </div>
+                        </div>
+                        <div class="feature-one__single-inner">
+                            <p class="feature-one__text">Nullam neque augue, maximus id nulla id, dignissim tristique nunc.</p>
+                            <div class="feature-one__read-more">
+                                <a href="{{ url('/#team') }}">Read More <i class="fa fa-arrow-right"></i></a>
+                            </div>
+                        </div>
                     </div>
-                    <h3 style="font-size: 1.35rem; font-weight: 700; margin-bottom: 12px;">Roofing Solutions</h3>
-                    <p style="color: #718096; margin: 0; line-height: 1.6;">
-                        Commercial profile sheets, polycarbonate sheets, heat-resistant coatings, and leak-proof installation services.
-                    </p>
                 </div>
+                <!--Feature One Single End-->
+                <!--Feature One Single Start-->
+                <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
+                    <div class="feature-one__single">
+                        <div class="feature-one__top">
+                            <div class="feature-one__icon">
+                                <span class="icon-online-registration"></span>
+                            </div>
+                            <div class="feature-one__title-box">
+                                <h3 class="feature-one__title"><a href="{{ url('/#contact') }}">Free <br> estimates</a></h3>
+                            </div>
+                        </div>
+                        <div class="feature-one__single-inner">
+                            <p class="feature-one__text">Nullam neque augue, maximus id nulla id, dignissim tristique nunc.</p>
+                            <div class="feature-one__read-more">
+                                <a href="{{ url('/#contact') }}">Read More <i class="fa fa-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--Feature One Single End-->
             </div>
         </div>
     </div>
