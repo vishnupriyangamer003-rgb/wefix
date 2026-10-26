@@ -156,27 +156,14 @@
                                 </ul>
                             </li>
                             <li class="dropdown">
-                                <a href="#">Pages</a>
-                                <ul class="border-top-2px">
-                                    <li><a href="{{ url('/#team') }}">Team</a></li>
-                                    <li><a href="{{ url('/#testimonials') }}">Testimonials</a></li>
-                                    <li><a href="{{ url('/#gallery') }}">Gallery</a></li>
-                                    <li><a href="{{ url('/#faq') }}">FAQs</a></li>
-                                </ul>
-                            </li>
-                            <li class="dropdown">
                                 <a href="{{ url('/#projects') }}">Works</a>
                                 <ul class="border-top-2px">
                                     <li><a href="{{ url('/#projects') }}">Work</a></li>
                                     <li><a href="{{ url('/#projects') }}">Work Details</a></li>
                                 </ul>
                             </li>
-                            <li class="dropdown">
-                                <a href="{{ url('/#blog') }}">Blog</a>
-                                <ul class="border-top-2px">
-                                    <li><a href="{{ url('/#blog') }}">Blog</a></li>
-                                    <li><a href="{{ url('/#blog') }}">Blog Details</a></li>
-                                </ul>
+                            <li>
+                                <a href="{{ url('/#gallery') }}">Gallery</a>
                             </li>
                             <li>
                                 <a href="{{ url('/#contact') }}">Contact</a>

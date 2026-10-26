@@ -33,10 +33,10 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                     <div class="footer-widget__column footer-widget__about">
                         <div class="d-flex align-items-center mb-3">
-                            <img src="{{ asset('assets/images/resources/wefix-logo.jpeg') }}" alt="WEFIX Logo" style="max-height: 55px; border-radius: 6px; margin-right: 12px; background: #fff; padding: 2px;">
+                            <img src="{{ asset('assets/images/resources/wefix-logo-transparent.png') }}" alt="WEFIX Logo" style="max-height: 68px; width: auto; margin-right: 12px; filter: drop-shadow(0 4px 14px rgba(223, 165, 40, 0.35));">
                             <div>
-                                <h3 style="color: #fff; font-weight: 800; font-size: 1.5rem; margin: 0; line-height: 1;">WEFIX</h3>
-                                <small style="color: var(--roofsie-base, #dfa528); font-weight: 600; text-transform: uppercase;">Fabrication & Structural</small>
+                                <h3 style="color: #ffffff; font-weight: 800; font-size: 1.6rem; margin: 0; line-height: 1; letter-spacing: 0.5px; text-shadow: 0 2px 10px rgba(223, 165, 40, 0.25);">WEFIX</h3>
+                                <small style="color: #f5c754; font-weight: 700; text-transform: uppercase; letter-spacing: 0.4px;">Fabrication &amp; Structural</small>
                             </div>
                         </div>
                         <div class="footer-widget__about-text-box">
@@ -126,11 +126,11 @@
         <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
         <div class="logo-box mb-4">
             <a href="{{ url('/') }}" aria-label="WEFIX Logo">
-                <img src="{{ asset('assets/images/resources/wefix-logo.jpeg') }}" width="120" alt="WEFIX" style="border-radius: 6px;">
+                <img src="{{ asset('assets/images/resources/wefix-logo-transparent.png') }}" width="90" alt="WEFIX" style="height: auto;">
             </a>
             <div class="mt-2">
-                <strong style="color: #fff; font-size: 1.25rem;">WEFIX</strong>
-                <div style="color: #f26422; font-size: 0.75rem; text-transform: uppercase;">Fabrication & Structural</div>
+                <strong style="color: #ffffff; font-size: 1.25rem;">WEFIX</strong>
+                <div style="color: #f5c754; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.4px;">Fabrication &amp; Structural</div>
             </div>
         </div>
         <div class="mobile-nav__container"></div>

@@ -280,6 +280,52 @@
             background-color: var(--roofsie-gold-dark) !important;
             box-shadow: 0 0 20px var(--roofsie-gold-glow) !important;
         }
+
+        /* ========================================================
+           FOOTER READABILITY ON DARK BACKGROUND
+           ======================================================== */
+        .footer-widget__about-text {
+            color: #e8e6ee !important;
+        }
+
+        .footer-widget__explore-list li a {
+            color: #d5d3dc !important;
+        }
+
+        .footer-widget__explore-list li a:hover {
+            color: var(--roofsie-gold-light) !important;
+        }
+
+        .footer-widget__contact-text {
+            color: #d5d3dc !important;
+        }
+
+        .footer-widget__contact-list li .text p,
+        .footer-widget__contact-list li .text a {
+            color: #e8e6ee !important;
+        }
+
+        .footer-widget__contact-list li .text a:hover {
+            color: var(--roofsie-gold-light) !important;
+        }
+
+        .site-footer__bottom-text,
+        .site-footer__bottom-text a {
+            color: #cfcdd6 !important;
+        }
+
+        .site-footer__bottom-text a:hover {
+            color: var(--roofsie-gold-light) !important;
+        }
+
+        .site-footer__bottom-inner {
+            border-top-color: rgba(255, 255, 255, 0.14) !important;
+        }
+
+        .site-footer__social a {
+            color: #ffffff !important;
+            background-color: #232227 !important;
+        }
     </style>
 
     @stack('styles')

@@ -11,6 +11,13 @@
     .services-three {
         padding-top: 40px !important;
     }
+    /* Tighten gap between Why Choose Us and Latest Projects */
+    .why-choose-two {
+        padding-bottom: 45px !important;
+    }
+    .project-three {
+        padding-top: 45px !important;
+    }
 </style>
 @endpush
 
