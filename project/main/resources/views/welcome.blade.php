@@ -255,4 +255,80 @@
     </div>
 </section>
 <!--About One End-->
+
+<!--Services Three Start-->
+<section class="services-three" id="services">
+    <div class="container">
+        <div class="section-title text-center">
+            <div class="section-sub-title-box">
+                <p class="section-sub-title">Our services</p>
+                <div class="section-title-shape-1">
+                    <img src="{{ asset('assets/images/shapes/section-title-shape-1.png') }}" alt="">
+                </div>
+            </div>
+            <h2 class="section-title__title">We’re providing quality <br> roofing services</h2>
+        </div>
+        <div class="row">
+            <!--Services Three Single Start-->
+            <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
+                <div class="services-three__single">
+                    <div class="services-three__img-box">
+                        <div class="services-three__border"></div>
+                        <div class="services-three__icon">
+                            <span class="icon-roof"></span>
+                        </div>
+                        <div class="services-three__img">
+                            <img src="{{ asset('assets/images/services/services-3-1.jpg') }}" alt="Single play roofing">
+                        </div>
+                    </div>
+                    <div class="services-three__content">
+                        <p class="services-three__sub-title">Service v1</p>
+                        <h3 class="services-three__title"><a href="{{ url('/#services') }}">Single play roofing</a></h3>
+                    </div>
+                </div>
+            </div>
+            <!--Services Three Single End-->
+            <!--Services Three Single Start-->
+            <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
+                <div class="services-three__single">
+                    <div class="services-three__img-box">
+                        <div class="services-three__border"></div>
+                        <div class="services-three__icon">
+                            <span class="icon-joist"></span>
+                        </div>
+                        <div class="services-three__img">
+                            <img src="{{ asset('assets/images/services/services-3-2.jpg') }}" alt="Modified roofing">
+                        </div>
+                    </div>
+                    <div class="services-three__content">
+                        <p class="services-three__sub-title">Service v2</p>
+                        <h3 class="services-three__title"><a href="{{ url('/#services') }}">Modified roofing</a></h3>
+                    </div>
+                </div>
+            </div>
+            <!--Services Three Single End-->
+            <!--Services Three Single Start-->
+            <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
+                <div class="services-three__single">
+                    <div class="services-three__img-box">
+                        <div class="services-three__border"></div>
+                        <div class="services-three__icon">
+                            <span class="icon-roof-1"></span>
+                        </div>
+                        <div class="services-three__img">
+                            <img src="{{ asset('assets/images/services/services-3-3.jpg') }}" alt="Built-up roofing">
+                        </div>
+                    </div>
+                    <div class="services-three__content">
+                        <p class="services-three__sub-title">Service v3</p>
+                        <h3 class="services-three__title"><a href="{{ url('/#services') }}">Built-up roofing</a></h3>
+                    </div>
+                </div>
+            </div>
+            <!--Services Three Single End-->
+        </div>
+    </div>
+</section>
+<!--Services Three End-->
 @endsection
+
