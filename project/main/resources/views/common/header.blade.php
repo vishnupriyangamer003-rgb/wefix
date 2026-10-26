@@ -1,6 +1,43 @@
+<style>
+    .main-header__logo-box {
+        position: relative;
+        display: block;
+        width: 174px;
+        height: 166px;
+    }
+    .main-header__logo-bg {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 174px;
+        height: 166px;
+        display: block;
+        z-index: 1;
+        pointer-events: none;
+    }
+    .main-header__logo-img {
+        position: absolute;
+        top: 8px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 92px;
+        height: 112px;
+        object-fit: contain;
+        display: block;
+        z-index: 2;
+        transition: transform 0.3s ease;
+    }
+    .main-header__logo-box:hover .main-header__logo-img {
+        transform: translateX(-50%) scale(1.05);
+    }
+</style>
+
 <header class="main-header clearfix">
     <div class="main-header__logo">
-        <a href="{{ url('/') }}"><img src="{{ asset('assets/images/resources/logo-1-wefix.png') }}" alt="WEFIX Logo"></a>
+        <a href="{{ url('/') }}" class="main-header__logo-box">
+            <img class="main-header__logo-bg" src="{{ asset('assets/images/resources/logo-badge-bg.png') }}" alt="WEFIX Badge Background">
+            <img class="main-header__logo-img" src="{{ asset('assets/images/resources/logo.png') }}" alt="WEFIX Logo">
+        </a>
     </div>
     <div class="main-header__top">
         <div class="main-header__top-inner">
