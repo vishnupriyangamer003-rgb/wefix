@@ -30,6 +30,55 @@
     .main-header__logo-box:hover .main-header__logo-img {
         transform: translateX(-50%) scale(1.05);
     }
+
+    /* Menu & Hamburger Toggler Responsiveness */
+    @media (min-width: 992px) {
+        .main-menu .mobile-nav__toggler,
+        .stricky-header .mobile-nav__toggler {
+            display: none !important;
+        }
+        .main-menu .main-menu__list,
+        .stricky-header .main-menu__list {
+            display: flex !important;
+            align-items: center;
+        }
+    }
+
+    @media (min-width: 992px) and (max-width: 1250px) {
+        .main-menu .main-menu__list>li+li,
+        .stricky-header .main-menu__list>li+li {
+            margin-left: 24px;
+        }
+    }
+
+    @media (max-width: 991px) {
+        .main-menu .main-menu__list,
+        .stricky-header .main-menu__list {
+            display: none !important;
+        }
+        .main-menu .mobile-nav__toggler,
+        .stricky-header .mobile-nav__toggler {
+            display: inline-flex !important;
+            align-items: center;
+            font-size: 24px;
+            color: var(--roofsie-base, #ff4f47);
+            padding: 20px 0;
+            cursor: pointer;
+        }
+    }
+
+    /* Hide distracting cursor circle/dot */
+    .custom-cursor__cursor,
+    .custom-cursor__cursor-two {
+        display: none !important;
+    }
+    body.custom-cursor,
+    body.custom-cursor * {
+        cursor: auto !important;
+    }
+    a, button, .thm-btn, [role="button"], .mobile-nav__toggler {
+        cursor: pointer !important;
+    }
 </style>
 
 <header class="main-header clearfix">
