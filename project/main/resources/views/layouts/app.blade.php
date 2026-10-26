@@ -47,9 +47,6 @@
         .preloader {
             display: none !important;
         }
-        .main-header__logo {
-            padding: 12px 20px;
-        }
     </style>
 
     @stack('styles')
