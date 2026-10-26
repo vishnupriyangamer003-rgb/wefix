@@ -97,15 +97,15 @@
                             <span class="fa fa-clock"></span>
                         </i>
                         <div class="text">
-                            <p>Mon to Sat: 09:00 am to 05:00 pm</p>
+                            <p>Mon to Sat: 08:30 am to 07:00 pm</p>
                         </div>
                     </li>
                     <li>
                         <i class="icon">
-                            <span class="fa fa-envelope"></span>
+                            <span class="fa fa-map-marker-alt"></span>
                         </i>
                         <div class="text">
-                            <p><a href="mailto:needhelp@company.com">needhelp@company.com</a></p>
+                            <p>Aruvankattanur, Manmangalam, Karur - 639006</p>
                         </div>
                     </li>
                 </ul>
@@ -113,8 +113,8 @@
             <div class="main-header__top-right">
                 <div class="main-header__top-menu-box">
                     <ul class="list-unstyled main-header__top-menu">
-                        <li><a href="{{ url('/#faq') }}">Our Faqs</a></li>
-                        <li><a href="{{ url('/#contact') }}">Pricing</a></li>
+                        <li><a href="{{ url('/#services') }}">Our Services</a></li>
+                        <li><a href="{{ url('/#projects') }}">Our Works</a></li>
                         <li><a href="{{ url('/#contact') }}">Contact</a></li>
                     </ul>
                 </div>
@@ -145,22 +145,17 @@
                             <li class="dropdown">
                                 <a href="{{ url('/#services') }}">Services</a>
                                 <ul class="border-top-2px">
-                                    <li><a href="{{ url('/#services') }}">Services</a></li>
-                                    <li><a href="{{ url('/#services') }}">Services Carousel</a></li>
-                                    <li><a href="{{ url('/#services') }}">Single play roofing</a></li>
-                                    <li><a href="{{ url('/#services') }}">Modified roofing</a></li>
-                                    <li><a href="{{ url('/#services') }}">Built-up roofing</a></li>
-                                    <li><a href="{{ url('/#services') }}">Roof inspection</a></li>
-                                    <li><a href="{{ url('/#services') }}">Roof installation</a></li>
-                                    <li><a href="{{ url('/#services') }}">Metal roofing</a></li>
+                                    <li><a href="{{ url('/#services') }}">Structural steel fabrication</a></li>
+                                    <li><a href="{{ url('/#services') }}">Industrial shed erection</a></li>
+                                    <li><a href="{{ url('/#services') }}">Metal roofing &amp; cladding</a></li>
+                                    <li><a href="{{ url('/#services') }}">Mezzanine floors</a></li>
+                                    <li><a href="{{ url('/#services') }}">Staircases &amp; railings</a></li>
+                                    <li><a href="{{ url('/#services') }}">Gates &amp; grills</a></li>
+                                    <li><a href="{{ url('/#services') }}">Custom heavy fabrication</a></li>
                                 </ul>
                             </li>
-                            <li class="dropdown">
+                            <li>
                                 <a href="{{ url('/#projects') }}">Works</a>
-                                <ul class="border-top-2px">
-                                    <li><a href="{{ url('/#projects') }}">Work</a></li>
-                                    <li><a href="{{ url('/#projects') }}">Work Details</a></li>
-                                </ul>
                             </li>
                             <li>
                                 <a href="{{ url('/#gallery') }}">Gallery</a>

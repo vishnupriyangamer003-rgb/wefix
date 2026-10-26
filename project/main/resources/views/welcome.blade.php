@@ -135,13 +135,13 @@
                                 <span class="icon-roof-5"></span>
                             </div>
                             <div class="feature-one__title-box">
-                                <h3 class="feature-one__title"><a href="{{ url('/#about') }}">Quality <br> materials</a></h3>
+                                <h3 class="feature-one__title"><a href="{{ url('/#services') }}">Certified <br> steel</a></h3>
                             </div>
                         </div>
                         <div class="feature-one__single-inner">
-                            <p class="feature-one__text">Nullam neque augue, maximus id nulla id, dignissim tristique nunc.</p>
+                            <p class="feature-one__text">IS 2062 structural steel, branded sheets and tested consumables on every job we take up.</p>
                             <div class="feature-one__read-more">
-                                <a href="{{ url('/#about') }}">Read More <i class="fa fa-arrow-right"></i></a>
+                                <a href="{{ url('/#services') }}">Read More <i class="fa fa-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -155,13 +155,13 @@
                                 <span class="icon-construction-worker"></span>
                             </div>
                             <div class="feature-one__title-box">
-                                <h3 class="feature-one__title"><a href="{{ url('/#team') }}">Professional <br> workers</a></h3>
+                                <h3 class="feature-one__title"><a href="{{ url('/#about') }}">Skilled <br> fabricators</a></h3>
                             </div>
                         </div>
                         <div class="feature-one__single-inner">
-                            <p class="feature-one__text">Nullam neque augue, maximus id nulla id, dignissim tristique nunc.</p>
+                            <p class="feature-one__text">Welders, fitters and erectors who build to shop drawings with clean, inspected finishing.</p>
                             <div class="feature-one__read-more">
-                                <a href="{{ url('/#team') }}">Read More <i class="fa fa-arrow-right"></i></a>
+                                <a href="{{ url('/#about') }}">Read More <i class="fa fa-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -175,11 +175,11 @@
                                 <span class="icon-online-registration"></span>
                             </div>
                             <div class="feature-one__title-box">
-                                <h3 class="feature-one__title"><a href="{{ url('/#contact') }}">Free <br> estimates</a></h3>
+                                <h3 class="feature-one__title"><a href="{{ url('/#contact') }}">Free site <br> estimates</a></h3>
                             </div>
                         </div>
                         <div class="feature-one__single-inner">
-                            <p class="feature-one__text">Nullam neque augue, maximus id nulla id, dignissim tristique nunc.</p>
+                            <p class="feature-one__text">Send your drawing or site dimensions and get a measured quotation within 48 hours.</p>
                             <div class="feature-one__read-more">
                                 <a href="{{ url('/#contact') }}">Read More <i class="fa fa-arrow-right"></i></a>
                             </div>
@@ -223,7 +223,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="about-one__big-text">roofing</div>
+                        <div class="about-one__big-text">WEFIX</div>
                     </div>
                 </div>
             </div>
@@ -236,9 +236,9 @@
                                 <img src="{{ asset('assets/images/shapes/section-title-shape-1.png') }}" alt="">
                             </div>
                         </div>
-                        <h2 class="section-title__title">Experienced &amp; quality roofing services providers</h2>
+                        <h2 class="section-title__title">Fabrication &amp; structural works built to last</h2>
                     </div>
-                    <p class="about-one__text">Nulla commodo dolor massa, vel pellentesque nulla congue quis. Fusce ut convallis diam. Nam id tortor et nunc tempor faucibus. Sed eu leo egestas, imperdiet felis sed, vestibulum ligula.</p>
+                    <p class="about-one__text">WEFIX designs, fabricates and erects structural steel for factories, warehouses, commercial buildings and homes across Karur and Tamil Nadu. From industrial sheds and mezzanine floors to staircases, gates and railings, every job is measured, drawn and built by our own team — delivered on schedule with clean finishing and safe erection practices.</p>
                     <ul class="list-unstyled about-one__points">
                         <li>
                             <div class="icon-box">
@@ -246,11 +246,11 @@
                                     <span class="icon-confirmation"></span>
                                 </div>
                                 <div class="text-box">
-                                    <p>Innovative work</p>
+                                    <p>In-house fabrication</p>
                                 </div>
                             </div>
                             <div class="text-box-two">
-                                <p>Lorem ipsum dolor sit ame sedme consectetur nod.</p>
+                                <p>Cutting, welding, drilling and painting happen in our own yard, so quality and timelines stay in our hands.</p>
                             </div>
                         </li>
                         <li>
@@ -259,11 +259,11 @@
                                     <span class="icon-confirmation"></span>
                                 </div>
                                 <div class="text-box">
-                                    <p>Certified company</p>
+                                    <p>Safe site erection</p>
                                 </div>
                             </div>
                             <div class="text-box-two">
-                                <p>Lorem ipsum dolor sit ame sedme consectetur nod.</p>
+                                <p>Trained crews, PPE, proper scaffolding and insured site practices on every structure we raise.</p>
                             </div>
                         </li>
                     </ul>
@@ -285,7 +285,7 @@
                     <img src="{{ asset('assets/images/shapes/section-title-shape-1.png') }}" alt="">
                 </div>
             </div>
-            <h2 class="section-title__title">We’re providing quality <br> roofing services</h2>
+            <h2 class="section-title__title">We build steel structures <br> and roofing that last</h2>
         </div>
         <div class="row">
             <!--Services Three Single Start-->
@@ -297,12 +297,12 @@
                             <span class="icon-roof"></span>
                         </div>
                         <div class="services-three__img">
-                            <img src="{{ asset('assets/images/services/services-3-1.jpg') }}" alt="Single play roofing">
+                            <img src="{{ asset('assets/images/services/services-3-1.jpg') }}" alt="Structural steel fabrication">
                         </div>
                     </div>
                     <div class="services-three__content">
-                        <p class="services-three__sub-title">Service v1</p>
-                        <h3 class="services-three__title"><a href="{{ url('/#services') }}">Single play roofing</a></h3>
+                        <p class="services-three__sub-title">Fabrication</p>
+                        <h3 class="services-three__title"><a href="{{ url('/#services') }}">Structural steel fabrication</a></h3>
                     </div>
                 </div>
             </div>
@@ -316,12 +316,12 @@
                             <span class="icon-joist"></span>
                         </div>
                         <div class="services-three__img">
-                            <img src="{{ asset('assets/images/services/services-3-2.jpg') }}" alt="Modified roofing">
+                            <img src="{{ asset('assets/images/services/services-3-2.jpg') }}" alt="Industrial shed erection">
                         </div>
                     </div>
                     <div class="services-three__content">
-                        <p class="services-three__sub-title">Service v2</p>
-                        <h3 class="services-three__title"><a href="{{ url('/#services') }}">Modified roofing</a></h3>
+                        <p class="services-three__sub-title">Erection</p>
+                        <h3 class="services-three__title"><a href="{{ url('/#services') }}">Industrial shed erection</a></h3>
                     </div>
                 </div>
             </div>
@@ -335,12 +335,12 @@
                             <span class="icon-roof-1"></span>
                         </div>
                         <div class="services-three__img">
-                            <img src="{{ asset('assets/images/services/services-3-3.jpg') }}" alt="Built-up roofing">
+                            <img src="{{ asset('assets/images/services/services-3-3.jpg') }}" alt="Metal roofing and cladding">
                         </div>
                     </div>
                     <div class="services-three__content">
-                        <p class="services-three__sub-title">Service v3</p>
-                        <h3 class="services-three__title"><a href="{{ url('/#services') }}">Built-up roofing</a></h3>
+                        <p class="services-three__sub-title">Roofing</p>
+                        <h3 class="services-three__title"><a href="{{ url('/#services') }}">Metal roofing &amp; cladding</a></h3>
                     </div>
                 </div>
             </div>
@@ -372,8 +372,8 @@
                                 <span class="icon-roof-2"></span>
                             </div>
                             <div class="content">
-                                <h4>Quality material</h4>
-                                <p>In a free hour when our power of choice is untrammelled and when nothing prevents.</p>
+                                <h4>Certified materials</h4>
+                                <p>IS 2062 steel, branded sheets and tested consumables — grade verified before it enters our yard.</p>
                                 <div class="why-choose-two__read-more">
                                     <a href="{{ url('/#about') }}">Read More <i class="fa fa-arrow-right"></i> </a>
                                 </div>
@@ -384,8 +384,8 @@
                                 <span class="icon-mission"></span>
                             </div>
                             <div class="content">
-                                <h4>Mission statement</h4>
-                                <p>In a free hour when our power of choice is untrammelled and when nothing prevents.</p>
+                                <h4>Transparent pricing</h4>
+                                <p>Item-wise quotations showing steel weight, sheet gauge and labour cost before work begins.</p>
                                 <div class="why-choose-two__read-more">
                                     <a href="{{ url('/#about') }}">Read More <i class="fa fa-arrow-right"></i> </a>
                                 </div>
@@ -411,8 +411,8 @@
                     <ul class="list-unstyled why-choose-two__list-two clearfix">
                         <li class="clearfix wow fadeInUp" data-wow-delay="100ms">
                             <div class="content">
-                                <h4>Fully insured</h4>
-                                <p>In a free hour when our power of choice is untrammelled and when nothing prevents.</p>
+                                <h4>Safety first</h4>
+                                <p>Trained crews, PPE, certified scaffolding and insured site practices on every project.</p>
                                 <div class="why-choose-two__read-more">
                                     <a href="{{ url('/#about') }}">Read More <i class="fa fa-arrow-right"></i> </a>
                                 </div>
@@ -423,8 +423,8 @@
                         </li>
                         <li class="clearfix wow fadeInUp" data-wow-delay="200ms">
                             <div class="content">
-                                <h4>Expert engineers</h4>
-                                <p>In a free hour when our power of choice is untrammelled and when nothing prevents.</p>
+                                <h4>Experienced engineers</h4>
+                                <p>Every drawing is checked for span, wind load and load capacity before fabrication starts.</p>
                                 <div class="why-choose-two__read-more">
                                     <a href="{{ url('/#about') }}">Read More <i class="fa fa-arrow-right"></i> </a>
                                 </div>
@@ -451,7 +451,7 @@
                     <img src="{{ asset('assets/images/shapes/section-title-shape-1.png') }}" alt="">
                 </div>
             </div>
-            <h2 class="section-title__title">Explore our latest projects <br> for your inspiration</h2>
+            <h2 class="section-title__title">Recent work from our yard <br> and project sites</h2>
         </div>
         <div class="project-three__carousel owl-carousel owl-theme thm-owl__carousel" data-owl-options='{
             "loop": true,
@@ -481,11 +481,11 @@
             <div class="item">
                 <div class="project-three__single">
                     <div class="project-three__img">
-                        <img src="{{ asset('assets/images/project/project-3-1.jpg') }}" alt="Fixing roof damage">
+                        <img src="{{ asset('assets/images/project/project-3-1.jpg') }}" alt="Industrial shed, Karur">
                         <div class="project-three__content">
                             <div class="project-three__content-left">
-                                <h3 class="project-three__title"><a href="{{ url('/#projects') }}">Fixing roof damage</a></h3>
-                                <p class="project-three__sub-title">Roof / IDEAS</p>
+                                <h3 class="project-three__title"><a href="{{ url('/#projects') }}">Industrial shed — Karur</a></h3>
+                                <p class="project-three__sub-title">Shed erection</p>
                             </div>
                             <div class="project-three__arrow">
                                 <a class="img-popup" href="{{ asset('assets/images/project/project-3-1.jpg') }}"><span class="icon-right-arrow"></span></a>
@@ -499,11 +499,11 @@
             <div class="item">
                 <div class="project-three__single">
                     <div class="project-three__img">
-                        <img src="{{ asset('assets/images/project/project-3-2.jpg') }}" alt="Modern roofing style">
+                        <img src="{{ asset('assets/images/project/project-3-2.jpg') }}" alt="Warehouse steel frame, Manmangalam">
                         <div class="project-three__content">
                             <div class="project-three__content-left">
-                                <h3 class="project-three__title"><a href="{{ url('/#projects') }}">Modern roofing style</a></h3>
-                                <p class="project-three__sub-title">Roof / IDEAS</p>
+                                <h3 class="project-three__title"><a href="{{ url('/#projects') }}">Warehouse steel frame — Manmangalam</a></h3>
+                                <p class="project-three__sub-title">Structural steel</p>
                             </div>
                             <div class="project-three__arrow">
                                 <a class="img-popup" href="{{ asset('assets/images/project/project-3-2.jpg') }}"><span class="icon-right-arrow"></span></a>
@@ -517,11 +517,11 @@
             <div class="item">
                 <div class="project-three__single">
                     <div class="project-three__img">
-                        <img src="{{ asset('assets/images/project/project-3-3.jpg') }}" alt="Roof inspections">
+                        <img src="{{ asset('assets/images/project/project-3-3.jpg') }}" alt="Metal roof replacement, Karur">
                         <div class="project-three__content">
                             <div class="project-three__content-left">
-                                <h3 class="project-three__title"><a href="{{ url('/#projects') }}">Roof inspections</a></h3>
-                                <p class="project-three__sub-title">Roof / IDEAS</p>
+                                <h3 class="project-three__title"><a href="{{ url('/#projects') }}">Metal roof replacement — Karur</a></h3>
+                                <p class="project-three__sub-title">Roofing</p>
                             </div>
                             <div class="project-three__arrow">
                                 <a class="img-popup" href="{{ asset('assets/images/project/project-3-3.jpg') }}"><span class="icon-right-arrow"></span></a>
@@ -535,50 +535,14 @@
             <div class="item">
                 <div class="project-three__single">
                     <div class="project-three__img">
-                        <img src="{{ asset('assets/images/project/project-3-4.jpg') }}" alt="Replacement of roof">
+                        <img src="{{ asset('assets/images/project/project-3-4.jpg') }}" alt="Mezzanine floor structure, Karur">
                         <div class="project-three__content">
                             <div class="project-three__content-left">
-                                <h3 class="project-three__title"><a href="{{ url('/#projects') }}">Replacement of roof</a></h3>
-                                <p class="project-three__sub-title">Roof / IDEAS</p>
+                                <h3 class="project-three__title"><a href="{{ url('/#projects') }}">Mezzanine floor — Karur</a></h3>
+                                <p class="project-three__sub-title">Fabrication</p>
                             </div>
                             <div class="project-three__arrow">
                                 <a class="img-popup" href="{{ asset('assets/images/project/project-3-4.jpg') }}"><span class="icon-right-arrow"></span></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--Project Three Single End-->
-            <!--Project Three Single Start-->
-            <div class="item">
-                <div class="project-three__single">
-                    <div class="project-three__img">
-                        <img src="{{ asset('assets/images/project/project-3-1.jpg') }}" alt="Fixing roof damage">
-                        <div class="project-three__content">
-                            <div class="project-three__content-left">
-                                <h3 class="project-three__title"><a href="{{ url('/#projects') }}">Fixing roof damage</a></h3>
-                                <p class="project-three__sub-title">Roof / IDEAS</p>
-                            </div>
-                            <div class="project-three__arrow">
-                                <a class="img-popup" href="{{ asset('assets/images/project/project-3-1.jpg') }}"><span class="icon-right-arrow"></span></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--Project Three Single End-->
-            <!--Project Three Single Start-->
-            <div class="item">
-                <div class="project-three__single">
-                    <div class="project-three__img">
-                        <img src="{{ asset('assets/images/project/project-3-2.jpg') }}" alt="Modern roofing style">
-                        <div class="project-three__content">
-                            <div class="project-three__content-left">
-                                <h3 class="project-three__title"><a href="{{ url('/#projects') }}">Modern roofing style</a></h3>
-                                <p class="project-three__sub-title">Roof / IDEAS</p>
-                            </div>
-                            <div class="project-three__arrow">
-                                <a class="img-popup" href="{{ asset('assets/images/project/project-3-2.jpg') }}"><span class="icon-right-arrow"></span></a>
                             </div>
                         </div>
                     </div>
