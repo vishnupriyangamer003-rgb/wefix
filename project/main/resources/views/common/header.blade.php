@@ -111,13 +111,6 @@
                 </ul>
             </div>
             <div class="main-header__top-right">
-                <div class="main-header__top-menu-box">
-                    <ul class="list-unstyled main-header__top-menu">
-                        <li><a href="{{ url('/#services') }}">Our Services</a></li>
-                        <li><a href="{{ url('/#projects') }}">Our Works</a></li>
-                        <li><a href="{{ url('/#contact') }}">Contact</a></li>
-                    </ul>
-                </div>
                 <div class="main-header__top-social-box">
                     <div class="main-header__top-social">
                         <a href="#"><i class="fab fa-facebook-square"></i></a>
