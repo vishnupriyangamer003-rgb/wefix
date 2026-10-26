@@ -24,18 +24,6 @@ return [
         'token' => env('POSTMARK_TOKEN'),
     ],
 
-    'recaptcha' => [
-        'site_key' => env('RECAPTCHA_SITE_KEY'),
-        'secret' => env('RECAPTCHA_SECRET_KEY'),
-        // Per-domain keys: the key pair is picked from the request host (www. ignored).
-        'sites' => [
-            'jinnahcoconutnurserygarden.com' => ['site_key' => env('RECAPTCHA_SITE_KEY_JINNAHCOCONUTNURSERYGARDEN_COM'), 'secret' => env('RECAPTCHA_SECRET_KEY_JINNAHCOCONUTNURSERYGARDEN_COM')],
-            'jinnahcoconutnursery.com' => ['site_key' => env('RECAPTCHA_SITE_KEY_JINNAHCOCONUTNURSERY_COM'), 'secret' => env('RECAPTCHA_SECRET_KEY_JINNAHCOCONUTNURSERY_COM')],
-            'jinnahcoconutnurserygarden.in' => ['site_key' => env('RECAPTCHA_SITE_KEY_JINNAHCOCONUTNURSERYGARDEN_IN'), 'secret' => env('RECAPTCHA_SECRET_KEY_JINNAHCOCONUTNURSERYGARDEN_IN')],
-            'jinnahcoconutnursery.in' => ['site_key' => env('RECAPTCHA_SITE_KEY_JINNAHCOCONUTNURSERY_IN'), 'secret' => env('RECAPTCHA_SECRET_KEY_JINNAHCOCONUTNURSERY_IN')],
-        ],
-    ],
-
     'ses' => [
         'key' => env('AWS_ACCESS_KEY_ID'),
         'secret' => env('AWS_SECRET_ACCESS_KEY'),

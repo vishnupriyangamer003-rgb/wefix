@@ -15,7 +15,7 @@ return [
 
     'defaults' => [
         'guard' => 'web',
-        'passwords' => 'customers',
+        'passwords' => 'users',
     ],
 
     /*
@@ -38,12 +38,7 @@ return [
     'guards' => [
         'web' => [
             'driver' => 'session',
-            'provider' => 'customers',
-        ],
-
-        'admin' => [
-            'driver' => 'session',
-            'provider' => 'admins',
+            'provider' => 'users',
         ],
     ],
 
@@ -65,17 +60,9 @@ return [
     */
 
     'providers' => [
-        // No Eloquent per project convention (see CLAUDE.md) — the "database"
-        // driver authenticates straight against the table via query builder and
-        // wraps each row in a plain Illuminate\Auth\GenericUser.
-        'customers' => [
-            'driver' => 'database',
-            'table' => 'customers',
-        ],
-
-        'admins' => [
-            'driver' => 'database',
-            'table' => 'admins',
+        'users' => [
+            'driver' => 'eloquent',
+            'model' => App\Models\User::class,
         ],
     ],
 
@@ -95,8 +82,8 @@ return [
     */
 
     'passwords' => [
-        'customers' => [
-            'provider' => 'customers',
+        'users' => [
+            'provider' => 'users',
             'table' => 'password_resets',
             'expire' => 60,
             'throttle' => 60,

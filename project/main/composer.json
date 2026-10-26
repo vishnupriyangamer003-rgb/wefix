@@ -5,14 +5,12 @@
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "require": {
-        "php": "^7.3|^8.0",
-        "dompdf/dompdf": "^2.0",
+        "php": "^7.3|^8.0|^8.1|^8.2",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.0.1",
         "laravel/framework": "^8.75",
         "laravel/sanctum": "^2.11",
-        "laravel/tinker": "^2.5",
-        "phpoffice/phpspreadsheet": "^1.22"
+        "laravel/tinker": "^2.5"
     },
     "require-dev": {
         "facade/ignition": "^2.5",
@@ -27,17 +25,7 @@
             "App\\": "app/",
             "Database\\Factories\\": "database/factories/",
             "Database\\Seeders\\": "database/seeders/"
-        },
-        "files": [
-            "app/Helpers/ImageHelper.php",
-            "app/Helpers/CartHelper.php",
-            "app/Helpers/CategoryHelper.php",
-            "app/Helpers/QueryHelper.php",
-            "app/Helpers/InvoiceHelper.php",
-            "app/Helpers/LocaleHelper.php",
-            "app/Helpers/SettingsHelper.php",
-            "app/Helpers/AssetHelper.php"
-        ]
+        }
     },
     "autoload-dev": {
         "psr-4": {
