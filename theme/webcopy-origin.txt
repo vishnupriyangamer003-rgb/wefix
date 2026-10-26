@@ -1,0 +1,1200 @@
+Uri: https://bracketweb.com/roofsie-html/main-html/404.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\404.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/about.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\about.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/css/roofsie-dark.css
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\css\roofsie-dark.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/css/roofsie-responsive.css
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\css\roofsie-responsive.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/css/roofsie.css
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\css\roofsie.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/backgrounds/main-slider-1-1.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\backgrounds\main-slider-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/backgrounds/main-slider-1-2.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\backgrounds\main-slider-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/backgrounds/main-slider-1-3.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\backgrounds\main-slider-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/backgrounds/main-slider-2-1.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\backgrounds\main-slider-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/backgrounds/main-slider-2-2.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\backgrounds\main-slider-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/backgrounds/main-slider-2-3.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\backgrounds\main-slider-2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/backgrounds/main-slider-3-1.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\backgrounds\main-slider-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/backgrounds/main-slider-3-2.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\backgrounds\main-slider-3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/backgrounds/main-slider-3-3.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\backgrounds\main-slider-3-3.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/backgrounds/newsletter-bg.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\backgrounds\newsletter-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/backgrounds/page-header-bg.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\backgrounds\page-header-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/backgrounds/pricing-one-bg.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\backgrounds\pricing-one-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/backgrounds/process-bg.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\backgrounds\process-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/backgrounds/service-details-need-help-bg.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\backgrounds\service-details-need-help-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/backgrounds/trust-company-bg.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\backgrounds\trust-company-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/backgrounds/why-choose-one-bg.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\backgrounds\why-choose-one-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/backgrounds/why-choose-two-bg.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\backgrounds\why-choose-two-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/blog/blog-1-1.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\blog\blog-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/blog/blog-1-2.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\blog\blog-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/blog/blog-1-3.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\blog\blog-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/blog/blog-1-4.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\blog\blog-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/blog/blog-1-5.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\blog\blog-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/blog/blog-1-6.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\blog\blog-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/blog/blog-2-1.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\blog\blog-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/blog/blog-2-2.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\blog\blog-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/blog/blog-2-3.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\blog\blog-2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/blog/blog-details-img-1.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\blog\blog-details-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/blog/blog-one-user-1-1.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\blog\blog-one-user-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/blog/blog-one-user-1-2.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\blog\blog-one-user-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/blog/blog-one-user-1-3.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\blog\blog-one-user-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/blog/blog-one-user-1-4.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\blog\blog-one-user-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/blog/blog-one-user-1-5.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\blog\blog-one-user-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/blog/blog-one-user-1-6.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\blog\blog-one-user-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/blog/blog-sideabr-img-1.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\blog\blog-sideabr-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/blog/blog-sideabr-img-2.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\blog\blog-sideabr-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/blog/comment-1-1.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\blog\comment-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/blog/comment-1-2.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\blog\comment-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/blog/lp-1-1.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\blog\lp-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/blog/lp-1-2.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\blog\lp-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/blog/lp-1-3.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\blog\lp-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/brand/brand-1-1-dark.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\brand\brand-1-1-dark.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/brand/brand-1-1.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\brand\brand-1-1.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/brand/brand-1-2-dark.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\brand\brand-1-2-dark.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/brand/brand-1-2.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\brand\brand-1-2.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/brand/brand-1-3-dark.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\brand\brand-1-3-dark.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/brand/brand-1-3.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\brand\brand-1-3.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/brand/brand-1-4-dark.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\brand\brand-1-4-dark.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/brand/brand-1-4.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\brand\brand-1-4.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/brand/brand-1-5-dark.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\brand\brand-1-5-dark.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/brand/brand-1-5.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\brand\brand-1-5.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/favicons/apple-touch-icon.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\favicons\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/favicons/favicon-16x16.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\favicons\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/favicons/favicon-32x32.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\favicons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/favicons/site.webmanifest
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\favicons\site.webmanifest
+Content Type: application/octet-stream
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/gallery/gallery-page-1.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\gallery\gallery-page-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/gallery/gallery-page-2.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\gallery\gallery-page-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/gallery/gallery-page-3.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\gallery\gallery-page-3.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/gallery/gallery-page-4.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\gallery\gallery-page-4.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/gallery/gallery-page-5.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\gallery\gallery-page-5.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/gallery/gallery-page-6.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\gallery\gallery-page-6.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/home-showcase/home-showcase-1-1.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\home-showcase\home-showcase-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/home-showcase/home-showcase-1-2.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\home-showcase\home-showcase-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/home-showcase/home-showcase-1-3.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\home-showcase\home-showcase-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/home-showcase/home-showcase-1-4.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\home-showcase\home-showcase-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/icon/blog-sideabr-bottom-box-icon.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\icon\blog-sideabr-bottom-box-icon.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/icon/blog-sidebar__delivering-services-icon.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\icon\blog-sidebar__delivering-services-icon.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/icon/counter-one-left-icon.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\icon\counter-one-left-icon.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/icon/main-slider-arrow.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\icon\main-slider-arrow.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/icon/project-two-icon.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\icon\project-two-icon.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/loader.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\loader.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/project/project-1-1.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\project\project-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/project/project-1-2.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\project\project-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/project/project-1-3.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\project\project-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/project/project-1-4.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\project\project-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/project/project-2-1.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\project\project-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/project/project-2-2.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\project\project-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/project/project-2-3.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\project\project-2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/project/project-2-4.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\project\project-2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/project/project-2-5.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\project\project-2-5.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/project/project-2-6.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\project\project-2-6.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/project/project-3-1.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\project\project-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/project/project-3-2.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\project\project-3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/project/project-3-3.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\project\project-3-3.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/project/project-3-4.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\project\project-3-4.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/project/work-1-1.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\project\work-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/project/work-1-2.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\project\work-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/project/work-1-3.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\project\work-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/project/work-1-4.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\project\work-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/project/work-1-5.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\project\work-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/project/work-1-6.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\project\work-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/project/work-details-img-1.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\project\work-details-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/resources/about-one-img-1.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\resources\about-one-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/resources/about-three-img-1.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\resources\about-three-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/resources/about-three-img-2.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\resources\about-three-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/resources/about-three-img-3.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\resources\about-three-img-3.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/resources/about-two-img-1.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\resources\about-two-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/resources/about-two-img-2.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\resources\about-two-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/resources/awards-1-1.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\resources\awards-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/resources/awards-1-2.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\resources\awards-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/resources/awards-1-3.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\resources\awards-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/resources/awards-1-4.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\resources\awards-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/resources/cta-one-img-1.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\resources\cta-one-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/resources/faq-one-img.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\resources\faq-one-img.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/resources/logo-1.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\resources\logo-1.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/resources/logo-2.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\resources\logo-2.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/resources/logo-3.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\resources\logo-3.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/resources/logo-dark.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\resources\logo-dark.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/resources/newsletter-img.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\resources\newsletter-img.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/resources/site-footer-img-1.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\resources\site-footer-img-1.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/resources/why-choose-one-img-1.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\resources\why-choose-one-img-1.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/resources/why-choose-two-img-1.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\resources\why-choose-two-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/resources/why-choose-two-img-2.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\resources\why-choose-two-img-2.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/services/service-details-benefits-img-1.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\services\service-details-benefits-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/services/service-details-benefits-img-2.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\services\service-details-benefits-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/services/services-1-1.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\services\services-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/services/services-1-2.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\services\services-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/services/services-1-3.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\services\services-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/services/services-1-4.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\services\services-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/services/services-1-5.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\services\services-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/services/services-1-6.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\services\services-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/services/services-3-1.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\services\services-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/services/services-3-2.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\services\services-3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/services/services-3-3.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\services\services-3-3.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/services/services-details-img-1.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\services\services-details-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/services/services-details-img-2.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\services\services-details-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/services/services-details-img-3.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\services\services-details-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/services/services-details-img-4.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\services\services-details-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/services/services-details-img-5.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\services\services-details-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/services/services-details-img-6.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\services\services-details-img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/about-one-line-dark.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\about-one-line-dark.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/about-one-line.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\about-one-line.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/about-one-satisfied-shape-1-dark.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\about-one-satisfied-shape-1-dark.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/about-one-satisfied-shape-1.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\about-one-satisfied-shape-1.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/about-one-shape-dark.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\about-one-shape-dark.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/about-one-shape.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\about-one-shape.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/about-three-shape-1.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\about-three-shape-1.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/about-two-line.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\about-two-line.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/about-two-practice-year-shape.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\about-two-practice-year-shape.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/appointment-shape-1.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\appointment-shape-1.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/blog-three-shape.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\blog-three-shape.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/brand-one-shape-1-dark.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\brand-one-shape-1-dark.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/brand-one-shape-1.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\brand-one-shape-1.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/brand-one-shape-2-dark.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\brand-one-shape-2-dark.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/brand-one-shape-2.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\brand-one-shape-2.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/contact-page-shape-1.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\contact-page-shape-1.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/contact-page-two-shape.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\contact-page-two-shape.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/feature-one-dot.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\feature-one-dot.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/main-header-three-shape.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\main-header-three-shape.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/newsletter-shape-6.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\newsletter-shape-6.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/pricing-one-shape-5.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\pricing-one-shape-5.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/pricing-one-shape-6.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\pricing-one-shape-6.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/process-shape.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\process-shape.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/section-title-shape-1.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\section-title-shape-1.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/services-one-shape-1.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\services-one-shape-1.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/services-one-shape-2.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\services-one-shape-2.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/services-two-shape-1.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\services-two-shape-1.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/site-footer-shape-1.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\site-footer-shape-1.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/team-one-shape.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\team-one-shape.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/testimonial-one-shape-dark.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\testimonial-one-shape-dark.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/testimonial-one-shape.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\testimonial-one-shape.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/testimonial-two-shape.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\testimonial-two-shape.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/traust-company-shape-1.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\traust-company-shape-1.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/shapes/why-choose-one-shape-4.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\shapes\why-choose-one-shape-4.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/team/team-1-1.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\team\team-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/team/team-1-2.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\team\team-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/team/team-1-3.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\team\team-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/team/team-1-4.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\team\team-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/team/team-1-5.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\team\team-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/team/team-1-6.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\team\team-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/team/team-details-img.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\team\team-details-img.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/testimonial/testimonial-1-1.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\testimonial\testimonial-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/testimonial/testimonial-1-2.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\testimonial\testimonial-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/testimonial/testimonial-1-3.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\testimonial\testimonial-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/testimonial/testimonial-1-4.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\testimonial\testimonial-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/testimonial/testimonial-1-5.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\testimonial\testimonial-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/images/testimonial/testimonial-1-6.jpg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\images\testimonial\testimonial-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/js/roofsie.js
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\js\roofsie.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/animate/animate.min.css
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\animate\animate.min.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/animate/custom-animate.css
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\animate\custom-animate.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/bootstrap-select/css/bootstrap-select.min.css
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\bootstrap-select\css\bootstrap-select.min.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/bootstrap-select/js/bootstrap-select.min.js
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\bootstrap-select\js\bootstrap-select.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/bootstrap/css/bootstrap.min.css
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/bootstrap/js/bootstrap.bundle.min.js
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\bootstrap\js\bootstrap.bundle.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/bxslider/jquery.bxslider.css
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\bxslider\jquery.bxslider.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/bxslider/jquery.bxslider.min.js
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\bxslider\jquery.bxslider.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/circleType/jquery.circleType.js
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\circleType\jquery.circleType.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/circleType/jquery.lettering.min.js
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\circleType\jquery.lettering.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/countdown/countdown.min.js
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\countdown\countdown.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/fontawesome/css/all.min.css
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\fontawesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/fontawesome/webfonts/fa-brands-400.eot
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\fontawesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/fontawesome/webfonts/fa-brands-400.eot?
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\fontawesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/fontawesome/webfonts/fa-brands-400.svg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\fontawesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/fontawesome/webfonts/fa-brands-400.ttf
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/fontawesome/webfonts/fa-brands-400.woff
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\fontawesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/fontawesome/webfonts/fa-brands-400.woff2
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/fontawesome/webfonts/fa-regular-400.eot
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\fontawesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/fontawesome/webfonts/fa-regular-400.eot?
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\fontawesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/fontawesome/webfonts/fa-regular-400.svg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\fontawesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/fontawesome/webfonts/fa-regular-400.ttf
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/fontawesome/webfonts/fa-regular-400.woff
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\fontawesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/fontawesome/webfonts/fa-regular-400.woff2
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/fontawesome/webfonts/fa-solid-900.eot
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\fontawesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/fontawesome/webfonts/fa-solid-900.eot?
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\fontawesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/fontawesome/webfonts/fa-solid-900.svg
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\fontawesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/fontawesome/webfonts/fa-solid-900.ttf
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/fontawesome/webfonts/fa-solid-900.woff
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\fontawesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/fontawesome/webfonts/fa-solid-900.woff2
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/isotope/isotope.js
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\isotope\isotope.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/jarallax/jarallax.css
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\jarallax\jarallax.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/jarallax/jarallax.min.js
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\jarallax\jarallax.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min.js
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\jquery-ajaxchimp\jquery.ajaxchimp.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/jquery-appear/jquery.appear.min.js
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\jquery-appear\jquery.appear.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/jquery-circle-progress/jquery.circle-progress.min.js
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\jquery-circle-progress\jquery.circle-progress.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/jquery-magnific-popup/jquery.magnific-popup.css
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\jquery-magnific-popup\jquery.magnific-popup.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/jquery-magnific-popup/jquery.magnific-popup.min.js
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\jquery-magnific-popup\jquery.magnific-popup.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/jquery-ui/images/ui-bg_glass_55_fbf9ee_1x400.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\jquery-ui\images\ui-bg_glass_55_fbf9ee_1x400.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/jquery-ui/images/ui-bg_glass_65_ffffff_1x400.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\jquery-ui\images\ui-bg_glass_65_ffffff_1x400.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/jquery-ui/images/ui-bg_glass_75_dadada_1x400.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\jquery-ui\images\ui-bg_glass_75_dadada_1x400.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/jquery-ui/images/ui-bg_glass_75_e6e6e6_1x400.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\jquery-ui\images\ui-bg_glass_75_e6e6e6_1x400.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/jquery-ui/images/ui-bg_glass_95_fef1ec_1x400.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\jquery-ui\images\ui-bg_glass_95_fef1ec_1x400.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/jquery-ui/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\jquery-ui\images\ui-bg_highlight-soft_75_cccccc_1x100.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/jquery-ui/images/ui-icons_222222_256x240.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\jquery-ui\images\ui-icons_222222_256x240.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/jquery-ui/images/ui-icons_2e83ff_256x240.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\jquery-ui\images\ui-icons_2e83ff_256x240.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/jquery-ui/images/ui-icons_454545_256x240.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\jquery-ui\images\ui-icons_454545_256x240.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/jquery-ui/images/ui-icons_888888_256x240.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\jquery-ui\images\ui-icons_888888_256x240.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/jquery-ui/images/ui-icons_cd0a0a_256x240.png
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\jquery-ui\images\ui-icons_cd0a0a_256x240.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/jquery-ui/jquery-ui.css
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\jquery-ui\jquery-ui.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/jquery-ui/jquery-ui.js
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\jquery-ui\jquery-ui.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/jquery-validate/jquery.validate.min.js
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\jquery-validate\jquery.validate.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/jquery/jquery-3.6.0.min.js
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\jquery\jquery-3.6.0.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/nouislider/nouislider.min.css
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\nouislider\nouislider.min.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/nouislider/nouislider.min.js
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\nouislider\nouislider.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/nouislider/nouislider.pips.css
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\nouislider\nouislider.pips.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/odometer/odometer.min.css
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\odometer\odometer.min.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/odometer/odometer.min.js
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\odometer\odometer.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/owl-carousel/owl.carousel.min.css
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\owl-carousel\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/owl-carousel/owl.carousel.min.js
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\owl-carousel\owl.carousel.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/owl-carousel/owl.theme.default.min.css
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\owl-carousel\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/reey-font/reey-regular-webfont.woff
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\reey-font\reey-regular-webfont.woff
+Content Type: font/woff
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/reey-font/reey-regular-webfont.woff2
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\reey-font\reey-regular-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/reey-font/stylesheet.css
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\reey-font\stylesheet.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/roofsie-icons/fonts/icomoon.eot?gq7fto
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\roofsie-icons\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/roofsie-icons/fonts/icomoon.svg?gq7fto
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\roofsie-icons\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/roofsie-icons/fonts/icomoon.ttf?gq7fto
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\roofsie-icons\fonts\icomoon.ttf
+Content Type: font/ttf
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/roofsie-icons/fonts/icomoon.woff?gq7fto
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\roofsie-icons\fonts\icomoon.woff
+Content Type: font/woff
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/roofsie-icons/style.css
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\roofsie-icons\style.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/swiper/swiper.min.css
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\swiper\swiper.min.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/swiper/swiper.min.js
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\swiper\swiper.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/timepicker/timePicker.css
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\timepicker\timePicker.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/timepicker/timePicker.js
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\timepicker\timePicker.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/tiny-slider/tiny-slider.min.css
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\tiny-slider\tiny-slider.min.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/tiny-slider/tiny-slider.min.js
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\tiny-slider\tiny-slider.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/vegas/vegas.min.css
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\vegas\vegas.min.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/vegas/vegas.min.js
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\vegas\vegas.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/wnumb/wNumb.min.js
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\wnumb\wNumb.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/roofsie-html/main-html/assets/vendors/wow/wow.js
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\assets\vendors\wow\wow.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/roofsie-html/main-html/blog-carousel.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\blog-carousel.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/blog-details.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\blog-details.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/blog-sidebar.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\blog-sidebar.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/blog.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\blog.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/built-up-roofing.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\built-up-roofing.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/contact.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\contact.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/faq.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\faq.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/gallery-carousel.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\gallery-carousel.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/gallery.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\gallery.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/index-dark.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\index-dark.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/index-one-page.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\index-one-page.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/index.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\index.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/index2-one-page.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\index2-one-page.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/index2.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\index2.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/index3-one-page.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\index3-one-page.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/index3.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\index3.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/metal-roofing.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\metal-roofing.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/modified-roofing.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\modified-roofing.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/roof-inspection.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\roof-inspection.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/roof-installation.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\roof-installation.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/services-carousel.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\services-carousel.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/services.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\services.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/single-play-roofing.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\single-play-roofing.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/team-carousel.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\team-carousel.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/team-details.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\team-details.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/team.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\team.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/testimonials-carousel.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\testimonials-carousel.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/testimonials.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\testimonials.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/work-carousel.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\work-carousel.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/work-details.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\work-details.html
+Content Type: text/html
+
+Uri: https://bracketweb.com/roofsie-html/main-html/work.html
+File Name: D:\webcopy-1\bracketweb.com\roofsie-html\main-html\work.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap
+File Name: D:\webcopy-1\bracketweb.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE-_F.ttf
+File Name: D:\webcopy-1\bracketweb.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE-_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE-_F.ttf
+File Name: D:\webcopy-1\bracketweb.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE-_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E-_F.ttf
+File Name: D:\webcopy-1\bracketweb.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E-_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59FO_F.ttf
+File Name: D:\webcopy-1\bracketweb.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59FO_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk6jFO_F.ttf
+File Name: D:\webcopy-1\bracketweb.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk6jFO_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FO_F.ttf
+File Name: D:\webcopy-1\bracketweb.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FO_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F.ttf
+File Name: D:\webcopy-1\bracketweb.com\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F.ttf
+Content Type: font/ttf
+

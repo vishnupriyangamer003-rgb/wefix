@@ -1,0 +1,28 @@
+.logo-text {
+    font-size: 32px;
+    font-weight: 700;
+    color: #222;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 1px;
+}
+
+.logo-text span {
+    color: #e63946; /* Event theme color */
+    font-weight: 800;
+}
+
+.logo-text:hover {
+    color: #222;
+    text-decoration: none;
+}
+
+/* Dark mode */
+.logo-dark-mode .logo-text,
+.dark .logo-text {
+    color: #fff;
+}
+
+.dark .logo-text span {
+    color: #ff6b6b;
+}
