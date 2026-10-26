@@ -2,6 +2,18 @@
 
 @section('title', 'WEFIX - Fabrication, Structural works & Industrial Roofing in Karur')
 
+@push('styles')
+<style>
+    /* Reduce excessive vertical space and padding between sections */
+    .about-one {
+        padding-bottom: 35px !important;
+    }
+    .services-three {
+        padding-top: 40px !important;
+    }
+</style>
+@endpush
+
 @section('content')
 <!--Main Slider Start-->
 <section class="main-slider-two clearfix">
