@@ -17,3 +17,7 @@ auth.json
 .idea/
 .DS_Store
 Thumbs.db
+
+# Project links
+/project/assets
+
