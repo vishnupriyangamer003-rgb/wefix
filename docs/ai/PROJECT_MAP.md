@@ -41,6 +41,7 @@ When working on a UI component, open **only** the target file listed below:
 | ↳ **About Us** | `welcome.blade.php` (`about-one`) | 98% counter badge, worker image, bullet points, discover more button |
 | ↳ **Services Section** | `welcome.blade.php` (`services-three`) | 3 circular icon cards: Single play, Modified, Built-up roofing |
 | ↳ **Why Choose Us** | `welcome.blade.php` (`why-choose-two`) | Dark slate background, 3D circular popout image, 4 core reasons |
+| ↳ **Latest Projects** | `welcome.blade.php` (`project-three`) | Owl carousel with project cards, popup zoom arrows, and indicators |
 
 ---
 

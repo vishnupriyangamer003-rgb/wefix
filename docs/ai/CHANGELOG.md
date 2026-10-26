@@ -4,6 +4,10 @@ Records meaningful architectural updates, component integrations, and fixes.
 
 ---
 
+### [2026-10-26] - Latest Projects Carousel Integration
+- **File**: `project/main/resources/views/welcome.blade.php`
+- **Details**: Sourced `project-three` Owl carousel from `theme/roofsie-html/main-html/index3.html`. Integrated responsive carousel with project cards (`project-3-1.jpg` to `project-3-4.jpg`), lightbox popup arrow buttons, carousel dot navigation, and continuous dark header continuity from `why-choose-two`.
+
 ### [2026-10-26] - Why Choose Us Integration
 - **Commit**: `201502b`
 - **File**: `project/main/resources/views/welcome.blade.php`

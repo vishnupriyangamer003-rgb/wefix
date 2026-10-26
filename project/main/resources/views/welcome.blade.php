@@ -433,5 +433,154 @@
     </div>
 </section>
 <!--Why Choose Two End-->
+
+<!--Project Three Start-->
+<section class="project-three" id="projects">
+    <div class="container">
+        <div class="section-title text-center">
+            <div class="section-sub-title-box">
+                <p class="section-sub-title">Latest Projects</p>
+                <div class="section-title-shape-1">
+                    <img src="{{ asset('assets/images/shapes/section-title-shape-1.png') }}" alt="">
+                </div>
+            </div>
+            <h2 class="section-title__title">Explore our latest projects <br> for your inspiration</h2>
+        </div>
+        <div class="project-three__carousel owl-carousel owl-theme thm-owl__carousel" data-owl-options='{
+            "loop": true,
+            "autoplay": true,
+            "margin": 30,
+            "nav": false,
+            "dots": true,
+            "smartSpeed": 500,
+            "autoplayTimeout": 10000,
+            "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
+            "responsive": {
+                "0": {
+                    "items": 1
+                },
+                "768": {
+                    "items": 2
+                },
+                "992": {
+                    "items": 2
+                },
+                "1200": {
+                    "items": 2
+                }
+            }
+        }'>
+            <!--Project Three Single Start-->
+            <div class="item">
+                <div class="project-three__single">
+                    <div class="project-three__img">
+                        <img src="{{ asset('assets/images/project/project-3-1.jpg') }}" alt="Fixing roof damage">
+                        <div class="project-three__content">
+                            <div class="project-three__content-left">
+                                <h3 class="project-three__title"><a href="{{ url('/#projects') }}">Fixing roof damage</a></h3>
+                                <p class="project-three__sub-title">Roof / IDEAS</p>
+                            </div>
+                            <div class="project-three__arrow">
+                                <a class="img-popup" href="{{ asset('assets/images/project/project-3-1.jpg') }}"><span class="icon-right-arrow"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project Three Single End-->
+            <!--Project Three Single Start-->
+            <div class="item">
+                <div class="project-three__single">
+                    <div class="project-three__img">
+                        <img src="{{ asset('assets/images/project/project-3-2.jpg') }}" alt="Modern roofing style">
+                        <div class="project-three__content">
+                            <div class="project-three__content-left">
+                                <h3 class="project-three__title"><a href="{{ url('/#projects') }}">Modern roofing style</a></h3>
+                                <p class="project-three__sub-title">Roof / IDEAS</p>
+                            </div>
+                            <div class="project-three__arrow">
+                                <a class="img-popup" href="{{ asset('assets/images/project/project-3-2.jpg') }}"><span class="icon-right-arrow"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project Three Single End-->
+            <!--Project Three Single Start-->
+            <div class="item">
+                <div class="project-three__single">
+                    <div class="project-three__img">
+                        <img src="{{ asset('assets/images/project/project-3-3.jpg') }}" alt="Roof inspections">
+                        <div class="project-three__content">
+                            <div class="project-three__content-left">
+                                <h3 class="project-three__title"><a href="{{ url('/#projects') }}">Roof inspections</a></h3>
+                                <p class="project-three__sub-title">Roof / IDEAS</p>
+                            </div>
+                            <div class="project-three__arrow">
+                                <a class="img-popup" href="{{ asset('assets/images/project/project-3-3.jpg') }}"><span class="icon-right-arrow"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project Three Single End-->
+            <!--Project Three Single Start-->
+            <div class="item">
+                <div class="project-three__single">
+                    <div class="project-three__img">
+                        <img src="{{ asset('assets/images/project/project-3-4.jpg') }}" alt="Replacement of roof">
+                        <div class="project-three__content">
+                            <div class="project-three__content-left">
+                                <h3 class="project-three__title"><a href="{{ url('/#projects') }}">Replacement of roof</a></h3>
+                                <p class="project-three__sub-title">Roof / IDEAS</p>
+                            </div>
+                            <div class="project-three__arrow">
+                                <a class="img-popup" href="{{ asset('assets/images/project/project-3-4.jpg') }}"><span class="icon-right-arrow"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project Three Single End-->
+            <!--Project Three Single Start-->
+            <div class="item">
+                <div class="project-three__single">
+                    <div class="project-three__img">
+                        <img src="{{ asset('assets/images/project/project-3-1.jpg') }}" alt="Fixing roof damage">
+                        <div class="project-three__content">
+                            <div class="project-three__content-left">
+                                <h3 class="project-three__title"><a href="{{ url('/#projects') }}">Fixing roof damage</a></h3>
+                                <p class="project-three__sub-title">Roof / IDEAS</p>
+                            </div>
+                            <div class="project-three__arrow">
+                                <a class="img-popup" href="{{ asset('assets/images/project/project-3-1.jpg') }}"><span class="icon-right-arrow"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project Three Single End-->
+            <!--Project Three Single Start-->
+            <div class="item">
+                <div class="project-three__single">
+                    <div class="project-three__img">
+                        <img src="{{ asset('assets/images/project/project-3-2.jpg') }}" alt="Modern roofing style">
+                        <div class="project-three__content">
+                            <div class="project-three__content-left">
+                                <h3 class="project-three__title"><a href="{{ url('/#projects') }}">Modern roofing style</a></h3>
+                                <p class="project-three__sub-title">Roof / IDEAS</p>
+                            </div>
+                            <div class="project-three__arrow">
+                                <a class="img-popup" href="{{ asset('assets/images/project/project-3-2.jpg') }}"><span class="icon-right-arrow"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Project Three Single End-->
+        </div>
+    </div>
+</section>
+<!--Project Three End-->
 @endsection
 
