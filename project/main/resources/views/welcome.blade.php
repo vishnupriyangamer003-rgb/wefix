@@ -342,5 +342,96 @@
     </div>
 </section>
 <!--Services Three End-->
+
+<!--Why Choose Two Start-->
+<section class="why-choose-two" id="why-choose">
+    <div class="why-choose-two-bg" style="background-image: url({{ asset('assets/images/backgrounds/why-choose-two-bg.jpg') }});"></div>
+    <div class="container">
+        <div class="section-title text-center">
+            <div class="section-sub-title-box">
+                <p class="section-sub-title">why choose us</p>
+                <div class="section-title-shape-1">
+                    <img src="{{ asset('assets/images/shapes/section-title-shape-1.png') }}" alt="">
+                </div>
+            </div>
+            <h2 class="section-title__title">Few reasons to choose <br> our company</h2>
+        </div>
+        <div class="row">
+            <div class="col-xl-4">
+                <div class="why-choose-two__left">
+                    <ul class="list-unstyled why-choose-two__list-one">
+                        <li class="wow fadeInUp" data-wow-delay="100ms">
+                            <div class="icon">
+                                <span class="icon-roof-2"></span>
+                            </div>
+                            <div class="content">
+                                <h4>Quality material</h4>
+                                <p>In a free hour when our power of choice is untrammelled and when nothing prevents.</p>
+                                <div class="why-choose-two__read-more">
+                                    <a href="{{ url('/#about') }}">Read More <i class="fa fa-arrow-right"></i> </a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="wow fadeInUp" data-wow-delay="200ms">
+                            <div class="icon">
+                                <span class="icon-mission"></span>
+                            </div>
+                            <div class="content">
+                                <h4>Mission statement</h4>
+                                <p>In a free hour when our power of choice is untrammelled and when nothing prevents.</p>
+                                <div class="why-choose-two__read-more">
+                                    <a href="{{ url('/#about') }}">Read More <i class="fa fa-arrow-right"></i> </a>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-xl-4">
+                <div class="why-choose-two__middle wow zoomIn" data-wow-delay="100ms">
+                    <div class="why-choose-two__img-box">
+                        <div class="why-choose-two__img-one">
+                            <img src="{{ asset('assets/images/resources/why-choose-two-img-1.jpg') }}" alt="Why choose WEFIX">
+                            <div class="why-choose-two__img-two">
+                                <img src="{{ asset('assets/images/resources/why-choose-two-img-2.png') }}" alt="Why choose WEFIX">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4">
+                <div class="why-choose-two__right">
+                    <ul class="list-unstyled why-choose-two__list-two clearfix">
+                        <li class="clearfix wow fadeInUp" data-wow-delay="100ms">
+                            <div class="content">
+                                <h4>Fully insured</h4>
+                                <p>In a free hour when our power of choice is untrammelled and when nothing prevents.</p>
+                                <div class="why-choose-two__read-more">
+                                    <a href="{{ url('/#about') }}">Read More <i class="fa fa-arrow-right"></i> </a>
+                                </div>
+                            </div>
+                            <div class="icon">
+                                <span class="icon-shield"></span>
+                            </div>
+                        </li>
+                        <li class="clearfix wow fadeInUp" data-wow-delay="200ms">
+                            <div class="content">
+                                <h4>Expert engineers</h4>
+                                <p>In a free hour when our power of choice is untrammelled and when nothing prevents.</p>
+                                <div class="why-choose-two__read-more">
+                                    <a href="{{ url('/#about') }}">Read More <i class="fa fa-arrow-right"></i> </a>
+                                </div>
+                            </div>
+                            <div class="icon">
+                                <span class="icon-construction-worker"></span>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--Why Choose Two End-->
 @endsection
 
