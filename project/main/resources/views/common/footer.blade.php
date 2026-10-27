@@ -1,24 +1,3 @@
-<!--CTA One Start-->
-<section class="cta-one">
-    <div class="cta-one__img-box">
-        <div class="cta-one__img">
-            <img src="{{ asset('assets/images/resources/cta-one-img-1.jpg') }}" alt="WEFIX Fabrication Services">
-        </div>
-    </div>
-    <div class="container">
-        <div class="cta-one__inner">
-            <div class="cta-one__left">
-                <p class="cta-one__sub-title">Expert Fabrication & Structural Engineering</p>
-                <h3 class="cta-one__title">Need High-Quality Fabrication or Roofing Services?</h3>
-            </div>
-            <div class="cta-one__btn-box">
-                <a href="tel:9843722055" class="thm-btn cta-one__btn"> <i class="fa fa-phone-alt"></i> Call +91 9843722055</a>
-            </div>
-        </div>
-    </div>
-</section>
-<!--CTA One End-->
-
 <!--Site Footer Start-->
 <footer class="site-footer">
     <div class="site-footer-img-1">

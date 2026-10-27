@@ -60,11 +60,6 @@
         /* ========================================================
            IMPORTANT BACKGROUNDS (Vibrant Logo Gold)
            ======================================================== */
-        .cta-one {
-            background-color: var(--roofsie-base) !important;
-            background: linear-gradient(135deg, #dfa528 0%, #b88612 100%) !important;
-        }
-
         .about-one__satisfied-content,
         .services-three__icon,
         .feature-one__icon,
@@ -127,32 +122,6 @@
         .thm-btn:hover i {
             color: var(--roofsie-gold-dark) !important;
             background-color: #ffffff !important;
-        }
-
-        /* CTA section button on gold background */
-        .cta-one__btn {
-            background-color: #1c1b1f !important;
-            color: #ffffff !important;
-        }
-
-        .cta-one__btn:before {
-            background-color: #ffffff !important;
-        }
-
-        .cta-one__btn:hover {
-            background-color: #ffffff !important;
-            color: var(--roofsie-base) !important;
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.35) !important;
-        }
-
-        .cta-one__btn i {
-            background-color: #ffffff !important;
-            color: #1c1b1f !important;
-        }
-
-        .cta-one__btn:hover i {
-            background-color: var(--roofsie-base) !important;
-            color: #ffffff !important;
         }
 
         /* ========================================================
