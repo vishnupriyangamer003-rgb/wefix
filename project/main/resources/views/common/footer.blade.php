@@ -18,10 +18,15 @@
                                 <small style="color: #f5c754; font-weight: 700; text-transform: uppercase; letter-spacing: 0.4px;">Fabrication &amp; Structural</small>
                             </div>
                         </div>
+                        <p class="footer-widget__tagline">Quality roofing provider</p>
                         <div class="footer-widget__about-text-box">
                             <p class="footer-widget__about-text">
                                 WEFIX specializes in premium industrial shed erection, commercial roofing, structural steel fabrication, and custom engineering works with unmatched precision and durable materials.
                             </p>
+                        </div>
+                        <div class="footer-widget__cta">
+                            <p class="footer-widget__cta-text">Need roofing services?</p>
+                            <a href="tel:9843722055" class="footer-widget__cta-btn">Get free quote <i class="fa fa-arrow-right"></i></a>
                         </div>
                         <div class="site-footer__social">
                             <a href="tel:9843722055" title="Call Us"><i class="fas fa-phone"></i></a>

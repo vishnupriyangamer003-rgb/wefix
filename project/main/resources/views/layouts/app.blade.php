@@ -295,6 +295,62 @@
             color: #ffffff !important;
             background-color: #232227 !important;
         }
+
+        /* Footer tagline & free-quote CTA */
+        .footer-widget__tagline {
+            display: block;
+            color: var(--roofsie-gold-light) !important;
+            font-size: 13px;
+            font-weight: 700;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            margin: -2px 0 14px;
+        }
+
+        .footer-widget__cta {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 12px;
+            margin-top: 24px;
+        }
+
+        .footer-widget__cta-text {
+            margin: 0;
+            color: #ffffff !important;
+            font-size: 16px;
+            font-weight: 700;
+        }
+
+        .footer-widget__cta-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 10px 20px;
+            border-radius: 30px;
+            background-color: var(--roofsie-base) !important;
+            color: #ffffff !important;
+            font-size: 14px;
+            font-weight: 700;
+            line-height: 1.2;
+            transition: all 0.3s ease;
+        }
+
+        .footer-widget__cta-btn i {
+            font-size: 12px;
+            color: #ffffff !important;
+        }
+
+        .footer-widget__cta-btn:hover {
+            background-color: var(--roofsie-gold-light) !important;
+            color: #1c1b1f !important;
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(223, 165, 40, 0.35);
+        }
+
+        .footer-widget__cta-btn:hover i {
+            color: #1c1b1f !important;
+        }
     </style>
 
     @stack('styles')
