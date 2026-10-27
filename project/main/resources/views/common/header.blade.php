@@ -170,47 +170,6 @@
         color: #1c1b1f;
     }
 
-    .main-menu .main-menu__list > li > ul.main-menu__services-menu > li.mm-services__all {
-        box-sizing: border-box !important;
-        flex: 0 0 100% !important;
-        width: 100% !important;
-        max-width: 100% !important;
-        margin-top: 6px !important;
-        padding: 8px 3px 0 !important;
-    }
-
-    .main-menu .main-menu__list > li > ul.main-menu__services-menu > li.mm-services__all > a {
-        justify-content: center;
-        gap: 8px;
-        padding: 9px 20px !important;
-        background-color: #1c1b1f !important;
-        color: #ffffff !important;
-        font-size: 12px !important;
-        font-weight: 700 !important;
-        letter-spacing: 0.06em;
-        text-transform: uppercase;
-        border-radius: 9px !important;
-        transition: background-color 0.3s ease;
-    }
-
-    .main-menu .main-menu__list > li > ul.main-menu__services-menu > li.mm-services__all > a::before {
-        display: none !important;
-    }
-
-    .main-menu .main-menu__list > li > ul.main-menu__services-menu > li.mm-services__all > a i {
-        font-size: 11px;
-        transition: transform 0.3s ease;
-    }
-
-    .main-menu .main-menu__list > li > ul.main-menu__services-menu > li.mm-services__all > a:hover {
-        background-color: var(--roofsie-base, #dfa528) !important;
-        color: #1c1b1f !important;
-    }
-
-    .main-menu .main-menu__list > li > ul.main-menu__services-menu > li.mm-services__all > a:hover i {
-        transform: translateX(4px);
-    }
-
     /* Sub-menus are hidden by the template below 1200px — show them on tablet too */
     @media (min-width: 992px) and (max-width: 1199px) {
         .main-menu .main-menu__list > li > ul,
@@ -235,14 +194,6 @@
     .mobile-nav__container .main-menu__services-menu > .mm-services__item > a {
         background-color: transparent !important;
         padding: 8px 0 !important;
-    }
-
-    .mobile-nav__container .main-menu__services-menu > .mm-services__all > a {
-        background-color: transparent !important;
-        color: var(--roofsie-base, #dfa528) !important;
-        padding: 8px 0 !important;
-        justify-content: flex-start;
-        font-size: 14px !important;
     }
 
     /* Hide distracting cursor circle/dot */
@@ -368,9 +319,6 @@
                                                 <span class="mm-services__desc">Built to your drawing</span>
                                             </span>
                                         </a>
-                                    </li>
-                                    <li class="mm-services__all">
-                                        <a href="{{ url('/services') }}">View all services <i class="fa fa-arrow-right"></i></a>
                                     </li>
                                 </ul>
                             </li>
