@@ -124,6 +124,34 @@
             background-color: #ffffff !important;
         }
 
+        /* CTA section button on the gold band — solid dark button */
+        .cta-one .cta-one__btn {
+            background-color: #1c1b1f !important;
+            color: #ffffff !important;
+            border: none !important;
+        }
+
+        .cta-one .cta-one__btn:before {
+            display: none !important;
+        }
+
+        .cta-one .cta-one__btn i {
+            background-color: var(--roofsie-base) !important;
+            color: #1c1b1f !important;
+            transition: all 0.3s ease;
+        }
+
+        .cta-one .cta-one__btn:hover {
+            background-color: #000000 !important;
+            color: #ffffff !important;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.35) !important;
+        }
+
+        .cta-one .cta-one__btn:hover i {
+            background-color: #ffffff !important;
+            color: #1c1b1f !important;
+        }
+
         /* ========================================================
            ALL NAVIGATION & LINK HOVER STATES (Golden Glow & Accent)
            ======================================================== */
