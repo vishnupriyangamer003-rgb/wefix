@@ -80,48 +80,53 @@
         transform: rotate(180deg);
     }
 
-    .main-menu__services-menu {
-        width: 620px;
-        min-width: 620px;
-        padding: 16px 16px 14px !important;
-        flex-wrap: wrap;
-        border-radius: 14px !important;
-        box-shadow: 0 18px 45px rgba(28, 27, 31, 0.16) !important;
+    .main-menu .main-menu__list > li > ul.main-menu__services-menu {
+        width: 470px;
+        min-width: 470px;
+        max-width: 470px;
+        padding: 12px 12px 12px !important;
+        flex-wrap: wrap !important;
+        overflow: visible;
+        border-radius: 12px !important;
+        box-shadow: 0 18px 45px rgba(28, 27, 31, 0.18) !important;
     }
 
-    .main-menu__services-menu > .mm-services__item {
+    .main-menu .main-menu__list > li > ul.main-menu__services-menu > li.mm-services__item {
+        box-sizing: border-box !important;
         flex: 0 0 50% !important;
         width: 50% !important;
+        min-width: 50% !important;
+        max-width: 50% !important;
         margin: 0 !important;
-        padding: 4px !important;
+        padding: 3px !important;
     }
 
-    .main-menu__services-menu > .mm-services__item > a {
+    .main-menu .main-menu__list > li > ul.main-menu__services-menu > li.mm-services__item > a {
         display: flex !important;
         align-items: center;
-        gap: 12px;
-        padding: 10px 12px !important;
+        gap: 10px;
+        padding: 9px 10px !important;
         background-color: #f7f5f0 !important;
-        border-radius: 10px;
+        border-radius: 9px;
         line-height: 1.25;
         transition: background-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
     }
 
-    .main-menu__services-menu > .mm-services__item > a::before {
+    .main-menu .main-menu__list > li > ul.main-menu__services-menu > li.mm-services__item > a::before {
         display: none !important;
     }
 
     .mm-services__icon {
-        flex: 0 0 40px;
-        width: 40px;
-        height: 40px;
+        flex: 0 0 34px;
+        width: 34px;
+        height: 34px;
         border-radius: 50%;
         display: inline-flex;
         align-items: center;
         justify-content: center;
         background-color: #ffffff;
         color: var(--roofsie-base, #dfa528);
-        font-size: 15px;
+        font-size: 13px;
         box-shadow: 0 4px 12px rgba(28, 27, 31, 0.08);
         transition: background-color 0.3s ease, color 0.3s ease, transform 0.3s ease;
     }
@@ -129,76 +134,80 @@
     .mm-services__body {
         display: flex;
         flex-direction: column;
+        min-width: 0;
     }
 
     .mm-services__title {
-        font-size: 14px;
+        font-size: 13px;
         font-weight: 700;
         color: #1c1b1f;
         letter-spacing: 0;
+        line-height: 1.3;
         transition: color 0.3s ease;
     }
 
     .mm-services__desc {
-        font-size: 12px;
+        font-size: 11px;
         font-weight: 500;
         color: #8b8894;
         margin-top: 2px;
     }
 
-    .main-menu__services-menu > .mm-services__item > a:hover {
+    .main-menu .main-menu__list > li > ul.main-menu__services-menu > li.mm-services__item > a:hover {
         background-color: var(--roofsie-base, #dfa528) !important;
         transform: translateY(-2px);
         box-shadow: 0 8px 20px rgba(223, 165, 40, 0.3);
     }
 
-    .main-menu__services-menu > .mm-services__item > a:hover .mm-services__icon {
+    .main-menu .main-menu__list > li > ul.main-menu__services-menu > li.mm-services__item > a:hover .mm-services__icon {
         background-color: #1c1b1f;
         color: #ffffff;
         transform: scale(1.08);
     }
 
-    .main-menu__services-menu > .mm-services__item > a:hover .mm-services__title,
-    .main-menu__services-menu > .mm-services__item > a:hover .mm-services__desc {
+    .main-menu .main-menu__list > li > ul.main-menu__services-menu > li.mm-services__item > a:hover .mm-services__title,
+    .main-menu .main-menu__list > li > ul.main-menu__services-menu > li.mm-services__item > a:hover .mm-services__desc {
         color: #1c1b1f;
     }
 
-    .main-menu__services-menu > .mm-services__all {
+    .main-menu .main-menu__list > li > ul.main-menu__services-menu > li.mm-services__all {
+        box-sizing: border-box !important;
         flex: 0 0 100% !important;
         width: 100% !important;
-        margin-top: 8px !important;
-        padding: 10px 4px 0 !important;
+        max-width: 100% !important;
+        margin-top: 6px !important;
+        padding: 8px 3px 0 !important;
     }
 
-    .main-menu__services-menu > .mm-services__all > a {
+    .main-menu .main-menu__list > li > ul.main-menu__services-menu > li.mm-services__all > a {
         justify-content: center;
         gap: 8px;
-        padding: 10px 20px !important;
+        padding: 9px 20px !important;
         background-color: #1c1b1f !important;
         color: #ffffff !important;
-        font-size: 13px !important;
+        font-size: 12px !important;
         font-weight: 700 !important;
         letter-spacing: 0.06em;
         text-transform: uppercase;
-        border-radius: 10px !important;
+        border-radius: 9px !important;
         transition: background-color 0.3s ease;
     }
 
-    .main-menu__services-menu > .mm-services__all > a::before {
+    .main-menu .main-menu__list > li > ul.main-menu__services-menu > li.mm-services__all > a::before {
         display: none !important;
     }
 
-    .main-menu__services-menu > .mm-services__all > a i {
-        font-size: 12px;
+    .main-menu .main-menu__list > li > ul.main-menu__services-menu > li.mm-services__all > a i {
+        font-size: 11px;
         transition: transform 0.3s ease;
     }
 
-    .main-menu__services-menu > .mm-services__all > a:hover {
+    .main-menu .main-menu__list > li > ul.main-menu__services-menu > li.mm-services__all > a:hover {
         background-color: var(--roofsie-base, #dfa528) !important;
         color: #1c1b1f !important;
     }
 
-    .main-menu__services-menu > .mm-services__all > a:hover i {
+    .main-menu .main-menu__list > li > ul.main-menu__services-menu > li.mm-services__all > a:hover i {
         transform: translateX(4px);
     }
 
@@ -209,9 +218,10 @@
             display: flex !important;
         }
 
-        .main-menu__services-menu {
-            width: 540px;
-            min-width: 540px;
+        .main-menu .main-menu__list > li > ul.main-menu__services-menu {
+            width: 430px;
+            min-width: 430px;
+            max-width: 430px;
         }
     }
 
