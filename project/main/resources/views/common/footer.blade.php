@@ -1,3 +1,24 @@
+<!--CTA One Start-->
+<section class="cta-one" id="quote">
+    <div class="cta-one__img-box">
+        <div class="cta-one__img">
+            <img src="{{ asset('assets/images/resources/cta-one-img-1.jpg') }}" alt="WEFIX roofing services">
+        </div>
+    </div>
+    <div class="container">
+        <div class="cta-one__inner">
+            <div class="cta-one__left">
+                <p class="cta-one__sub-title">Quality roofing provider</p>
+                <h3 class="cta-one__title">Need roofing services?</h3>
+            </div>
+            <div class="cta-one__btn-box">
+                <a href="tel:9843722055" class="thm-btn cta-one__btn"> <i class="fa fa-arrow-right"></i> Get free quote</a>
+            </div>
+        </div>
+    </div>
+</section>
+<!--CTA One End-->
+
 <!--Site Footer Start-->
 <footer class="site-footer">
     <div class="site-footer-img-1">
@@ -18,15 +39,10 @@
                                 <small style="color: #f5c754; font-weight: 700; text-transform: uppercase; letter-spacing: 0.4px;">Fabrication &amp; Structural</small>
                             </div>
                         </div>
-                        <p class="footer-widget__tagline">Quality roofing provider</p>
                         <div class="footer-widget__about-text-box">
                             <p class="footer-widget__about-text">
                                 WEFIX specializes in premium industrial shed erection, commercial roofing, structural steel fabrication, and custom engineering works with unmatched precision and durable materials.
                             </p>
-                        </div>
-                        <div class="footer-widget__cta">
-                            <p class="footer-widget__cta-text">Need roofing services?</p>
-                            <a href="tel:9843722055" class="footer-widget__cta-btn">Get free quote <i class="fa fa-arrow-right"></i></a>
                         </div>
                         <div class="site-footer__social">
                             <a href="tel:9843722055" title="Call Us"><i class="fas fa-phone"></i></a>
