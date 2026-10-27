@@ -95,7 +95,7 @@
                                 </div>
                                 <h2 class="main-slider-two__title">Expert Metal Roofing <br> & Engineering Works</h2>
                                 <div class="main-slider-two__btn-box">
-                                    <a href="{{ url('/#services') }}" class="thm-btn main-slider-two__btn"> <i class="fa fa-arrow-right"></i> Explore Services</a>
+                                    <a href="{{ url('/services') }}" class="thm-btn main-slider-two__btn"> <i class="fa fa-arrow-right"></i> Explore Services</a>
                                 </div>
                             </div>
                         </div>
@@ -135,13 +135,13 @@
                                 <span class="icon-roof-5"></span>
                             </div>
                             <div class="feature-one__title-box">
-                                <h3 class="feature-one__title"><a href="{{ url('/#services') }}">Certified <br> steel</a></h3>
+                                <h3 class="feature-one__title"><a href="{{ url('/services') }}">Certified <br> steel</a></h3>
                             </div>
                         </div>
                         <div class="feature-one__single-inner">
                             <p class="feature-one__text">IS 2062 structural steel, branded sheets and tested consumables on every job we take up.</p>
                             <div class="feature-one__read-more">
-                                <a href="{{ url('/#services') }}">Read More <i class="fa fa-arrow-right"></i></a>
+                                <a href="{{ url('/services') }}">Read More <i class="fa fa-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -302,7 +302,7 @@
                     </div>
                     <div class="services-three__content">
                         <p class="services-three__sub-title">Fabrication</p>
-                        <h3 class="services-three__title"><a href="{{ url('/#services') }}">Structural steel fabrication</a></h3>
+                        <h3 class="services-three__title"><a href="{{ url('/services#structural-steel') }}">Structural steel fabrication</a></h3>
                     </div>
                 </div>
             </div>
@@ -321,7 +321,7 @@
                     </div>
                     <div class="services-three__content">
                         <p class="services-three__sub-title">Erection</p>
-                        <h3 class="services-three__title"><a href="{{ url('/#services') }}">Industrial shed erection</a></h3>
+                        <h3 class="services-three__title"><a href="{{ url('/services#shed-erection') }}">Industrial shed erection</a></h3>
                     </div>
                 </div>
             </div>
@@ -340,7 +340,7 @@
                     </div>
                     <div class="services-three__content">
                         <p class="services-three__sub-title">Roofing</p>
-                        <h3 class="services-three__title"><a href="{{ url('/#services') }}">Metal roofing &amp; cladding</a></h3>
+                        <h3 class="services-three__title"><a href="{{ url('/services#metal-roofing') }}">Metal roofing &amp; cladding</a></h3>
                     </div>
                 </div>
             </div>

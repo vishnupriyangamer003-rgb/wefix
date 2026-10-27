@@ -129,22 +129,22 @@
                     <div class="main-menu__main-menu-box">
                         <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
                         <ul class="main-menu__list">
-                            <li class="dropdown current">
+                            <li class="{{ request()->is('/') ? 'current' : '' }}">
                                 <a href="{{ url('/') }}">Home</a>
                             </li>
-                            <li>
-                                <a href="{{ url('/#about') }}">About</a>
+                            <li class="{{ request()->is('about') ? 'current' : '' }}">
+                                <a href="{{ url('/about') }}">About</a>
                             </li>
-                            <li class="dropdown">
-                                <a href="{{ url('/#services') }}">Services</a>
+                            <li class="dropdown {{ request()->is('services') ? 'current' : '' }}">
+                                <a href="{{ url('/services') }}">Services</a>
                                 <ul class="border-top-2px">
-                                    <li><a href="{{ url('/#services') }}">Structural steel fabrication</a></li>
-                                    <li><a href="{{ url('/#services') }}">Industrial shed erection</a></li>
-                                    <li><a href="{{ url('/#services') }}">Metal roofing &amp; cladding</a></li>
-                                    <li><a href="{{ url('/#services') }}">Mezzanine floors</a></li>
-                                    <li><a href="{{ url('/#services') }}">Staircases &amp; railings</a></li>
-                                    <li><a href="{{ url('/#services') }}">Gates &amp; grills</a></li>
-                                    <li><a href="{{ url('/#services') }}">Custom heavy fabrication</a></li>
+                                    <li><a href="{{ url('/services') }}">All services</a></li>
+                                    <li><a href="{{ url('/services#structural-steel') }}">Structural steel fabrication</a></li>
+                                    <li><a href="{{ url('/services#shed-erection') }}">Industrial shed erection</a></li>
+                                    <li><a href="{{ url('/services#metal-roofing') }}">Metal roofing &amp; cladding</a></li>
+                                    <li><a href="{{ url('/services#mezzanine-floors') }}">Mezzanine floors &amp; staircases</a></li>
+                                    <li><a href="{{ url('/services#gates-grills') }}">Gates, grills &amp; railings</a></li>
+                                    <li><a href="{{ url('/services#custom-fabrication') }}">Custom heavy fabrication</a></li>
                                 </ul>
                             </li>
                             <li>

@@ -57,8 +57,8 @@
                         <h3 class="footer-widget__title">Quick Links</h3>
                         <ul class="footer-widget__explore-list list-unstyled clearfix">
                             <li><a href="{{ url('/') }}">Home</a></li>
-                            <li><a href="{{ url('/#about') }}">About Us</a></li>
-                            <li><a href="{{ url('/#services') }}">Our Services</a></li>
+                            <li><a href="{{ url('/about') }}">About Us</a></li>
+                            <li><a href="{{ url('/services') }}">Our Services</a></li>
                             <li><a href="{{ url('/#projects') }}">Recent Works</a></li>
                             <li><a href="{{ url('/#contact') }}">Contact Us</a></li>
                         </ul>
@@ -68,11 +68,11 @@
                     <div class="footer-widget__column footer-widget__explore clearfix">
                         <h3 class="footer-widget__title">Our Services</h3>
                         <ul class="footer-widget__explore-list list-unstyled clearfix">
-                            <li><a href="{{ url('/#services') }}">Structural Steel Works</a></li>
-                            <li><a href="{{ url('/#services') }}">Industrial Shed Erection</a></li>
-                            <li><a href="{{ url('/#services') }}">Roofing Solutions</a></li>
-                            <li><a href="{{ url('/#services') }}">Gates, Grills & Railings</a></li>
-                            <li><a href="{{ url('/#services') }}">Custom Heavy Fabrication</a></li>
+                            <li><a href="{{ url('/services#structural-steel') }}">Structural Steel Works</a></li>
+                            <li><a href="{{ url('/services#shed-erection') }}">Industrial Shed Erection</a></li>
+                            <li><a href="{{ url('/services#metal-roofing') }}">Roofing Solutions</a></li>
+                            <li><a href="{{ url('/services#gates-grills') }}">Gates, Grills & Railings</a></li>
+                            <li><a href="{{ url('/services#custom-fabrication') }}">Custom Heavy Fabrication</a></li>
                         </ul>
                     </div>
                 </div>
