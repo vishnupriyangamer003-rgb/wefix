@@ -67,6 +67,174 @@
         }
     }
 
+    /* =====================================================
+       SMART SERVICES MEGA-DROPDOWN (Desktop only)
+       ===================================================== */
+    .mm-services__caret {
+        font-size: 12px;
+        margin-left: 6px;
+        transition: transform 0.3s ease;
+    }
+
+    .main-menu .main-menu__list > li.dropdown:hover > a .mm-services__caret {
+        transform: rotate(180deg);
+    }
+
+    .main-menu__services-menu {
+        width: 620px;
+        min-width: 620px;
+        padding: 16px 16px 14px !important;
+        flex-wrap: wrap;
+        border-radius: 14px !important;
+        box-shadow: 0 18px 45px rgba(28, 27, 31, 0.16) !important;
+    }
+
+    .main-menu__services-menu > .mm-services__item {
+        flex: 0 0 50% !important;
+        width: 50% !important;
+        margin: 0 !important;
+        padding: 4px !important;
+    }
+
+    .main-menu__services-menu > .mm-services__item > a {
+        display: flex !important;
+        align-items: center;
+        gap: 12px;
+        padding: 10px 12px !important;
+        background-color: #f7f5f0 !important;
+        border-radius: 10px;
+        line-height: 1.25;
+        transition: background-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .main-menu__services-menu > .mm-services__item > a::before {
+        display: none !important;
+    }
+
+    .mm-services__icon {
+        flex: 0 0 40px;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #ffffff;
+        color: var(--roofsie-base, #dfa528);
+        font-size: 15px;
+        box-shadow: 0 4px 12px rgba(28, 27, 31, 0.08);
+        transition: background-color 0.3s ease, color 0.3s ease, transform 0.3s ease;
+    }
+
+    .mm-services__body {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .mm-services__title {
+        font-size: 14px;
+        font-weight: 700;
+        color: #1c1b1f;
+        letter-spacing: 0;
+        transition: color 0.3s ease;
+    }
+
+    .mm-services__desc {
+        font-size: 12px;
+        font-weight: 500;
+        color: #8b8894;
+        margin-top: 2px;
+    }
+
+    .main-menu__services-menu > .mm-services__item > a:hover {
+        background-color: var(--roofsie-base, #dfa528) !important;
+        transform: translateY(-2px);
+        box-shadow: 0 8px 20px rgba(223, 165, 40, 0.3);
+    }
+
+    .main-menu__services-menu > .mm-services__item > a:hover .mm-services__icon {
+        background-color: #1c1b1f;
+        color: #ffffff;
+        transform: scale(1.08);
+    }
+
+    .main-menu__services-menu > .mm-services__item > a:hover .mm-services__title,
+    .main-menu__services-menu > .mm-services__item > a:hover .mm-services__desc {
+        color: #1c1b1f;
+    }
+
+    .main-menu__services-menu > .mm-services__all {
+        flex: 0 0 100% !important;
+        width: 100% !important;
+        margin-top: 8px !important;
+        padding: 10px 4px 0 !important;
+    }
+
+    .main-menu__services-menu > .mm-services__all > a {
+        justify-content: center;
+        gap: 8px;
+        padding: 10px 20px !important;
+        background-color: #1c1b1f !important;
+        color: #ffffff !important;
+        font-size: 13px !important;
+        font-weight: 700 !important;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        border-radius: 10px !important;
+        transition: background-color 0.3s ease;
+    }
+
+    .main-menu__services-menu > .mm-services__all > a::before {
+        display: none !important;
+    }
+
+    .main-menu__services-menu > .mm-services__all > a i {
+        font-size: 12px;
+        transition: transform 0.3s ease;
+    }
+
+    .main-menu__services-menu > .mm-services__all > a:hover {
+        background-color: var(--roofsie-base, #dfa528) !important;
+        color: #1c1b1f !important;
+    }
+
+    .main-menu__services-menu > .mm-services__all > a:hover i {
+        transform: translateX(4px);
+    }
+
+    /* Sub-menus are hidden by the template below 1200px — show them on tablet too */
+    @media (min-width: 992px) and (max-width: 1199px) {
+        .main-menu .main-menu__list > li > ul,
+        .stricky-header .main-menu__list > li > ul {
+            display: flex !important;
+        }
+
+        .main-menu__services-menu {
+            width: 540px;
+            min-width: 540px;
+        }
+    }
+
+    /* Mobile drawer: keep the cloned sub-menu plain (icons/desc are desktop-only) */
+    .mobile-nav__container .mm-services__icon,
+    .mobile-nav__container .mm-services__desc,
+    .mobile-nav__container .mm-services__caret {
+        display: none !important;
+    }
+
+    .mobile-nav__container .main-menu__services-menu > .mm-services__item > a {
+        background-color: transparent !important;
+        padding: 8px 0 !important;
+    }
+
+    .mobile-nav__container .main-menu__services-menu > .mm-services__all > a {
+        background-color: transparent !important;
+        color: var(--roofsie-base, #dfa528) !important;
+        padding: 8px 0 !important;
+        justify-content: flex-start;
+        font-size: 14px !important;
+    }
+
     /* Hide distracting cursor circle/dot */
     .custom-cursor__cursor,
     .custom-cursor__cursor-two {
