@@ -146,7 +146,7 @@
 <!--Trust Company Start-->
 <section class="trust-company">
     <div class="trust-company-shape-1">
-        <img src="{{ asset('assets/images/shapes/traust-company-shape-1.png') }}" alt="">
+        <img src="{{ asset('assets/images/shapes/traust-company-shape-1.png') }}?v=gold2" alt="">
     </div>
     <div class="trust-company-shape-2"></div>
     <div class="trust-company-shape-3"></div>

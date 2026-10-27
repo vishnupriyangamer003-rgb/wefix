@@ -23,6 +23,7 @@ This file is the single source of truth for repository structure and component m
 - **Artisan Dev Server**: `http://localhost:8000/` (executed from `project/main`)
 - **Route Definitions**: `project/main/routes/web.php`
   - Root route `/` renders `welcome.blade.php`.
+  - About route `/about` renders `about.blade.php`.
 
 ---
 
@@ -42,6 +43,7 @@ When working on a UI component, open **only** the target file listed below:
 | ↳ **Services Section** | `welcome.blade.php` (`services-three`) | 3 circular icon cards: Single play, Modified, Built-up roofing |
 | ↳ **Why Choose Us** | `welcome.blade.php` (`why-choose-two`) | Dark slate background, 3D circular popout image, 4 core reasons |
 | ↳ **Latest Projects** | `welcome.blade.php` (`project-three`) | Owl carousel with project cards, popup zoom arrows, and indicators |
+| **About Us Page** | `project/main/resources/views/about.blade.php` | Dedicated About view: Page header, About Three/Four, Feature One, Trust Company, Team, Brand partners |
 
 ---
 

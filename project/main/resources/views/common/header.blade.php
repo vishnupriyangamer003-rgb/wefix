@@ -71,8 +71,7 @@
     .custom-cursor__cursor,
     .custom-cursor__cursor-two {
         display: none !important;
-    }
-    body.custom-cursor,
+    }    body.custom-cursor,
     body.custom-cursor * {
         cursor: auto !important;
     }
@@ -136,15 +135,65 @@
                                 <a href="{{ url('/about') }}">About</a>
                             </li>
                             <li class="dropdown {{ request()->is('services') ? 'current' : '' }}">
-                                <a href="{{ url('/services') }}">Services</a>
-                                <ul class="border-top-2px">
-                                    <li><a href="{{ url('/services') }}">All services</a></li>
-                                    <li><a href="{{ url('/services#structural-steel') }}">Structural steel fabrication</a></li>
-                                    <li><a href="{{ url('/services#shed-erection') }}">Industrial shed erection</a></li>
-                                    <li><a href="{{ url('/services#metal-roofing') }}">Metal roofing &amp; cladding</a></li>
-                                    <li><a href="{{ url('/services#mezzanine-floors') }}">Mezzanine floors &amp; staircases</a></li>
-                                    <li><a href="{{ url('/services#gates-grills') }}">Gates, grills &amp; railings</a></li>
-                                    <li><a href="{{ url('/services#custom-fabrication') }}">Custom heavy fabrication</a></li>
+                                <a href="{{ url('/services') }}">Services <i class="fa fa-angle-down mm-services__caret"></i></a>
+                                <ul class="border-top-2px main-menu__services-menu">
+                                    <li class="mm-services__item">
+                                        <a href="{{ url('/services#structural-steel') }}">
+                                            <span class="mm-services__icon"><i class="fa fa-cubes"></i></span>
+                                            <span class="mm-services__body">
+                                                <span class="mm-services__title">Structural steel fabrication</span>
+                                                <span class="mm-services__desc">Columns, beams &amp; trusses</span>
+                                            </span>
+                                        </a>
+                                    </li>
+                                    <li class="mm-services__item">
+                                        <a href="{{ url('/services#shed-erection') }}">
+                                            <span class="mm-services__icon"><i class="fa fa-warehouse"></i></span>
+                                            <span class="mm-services__body">
+                                                <span class="mm-services__title">Industrial shed erection</span>
+                                                <span class="mm-services__desc">Factory sheds &amp; warehouses</span>
+                                            </span>
+                                        </a>
+                                    </li>
+                                    <li class="mm-services__item">
+                                        <a href="{{ url('/services#metal-roofing') }}">
+                                            <span class="mm-services__icon"><i class="fa fa-home"></i></span>
+                                            <span class="mm-services__body">
+                                                <span class="mm-services__title">Metal roofing &amp; cladding</span>
+                                                <span class="mm-services__desc">Sheets, flashing &amp; gutters</span>
+                                            </span>
+                                        </a>
+                                    </li>
+                                    <li class="mm-services__item">
+                                        <a href="{{ url('/services#mezzanine-floors') }}">
+                                            <span class="mm-services__icon"><i class="fa fa-th-large"></i></span>
+                                            <span class="mm-services__body">
+                                                <span class="mm-services__title">Mezzanine &amp; staircases</span>
+                                                <span class="mm-services__desc">Platforms, ladders &amp; stairs</span>
+                                            </span>
+                                        </a>
+                                    </li>
+                                    <li class="mm-services__item">
+                                        <a href="{{ url('/services#gates-grills') }}">
+                                            <span class="mm-services__icon"><i class="fa fa-lock"></i></span>
+                                            <span class="mm-services__body">
+                                                <span class="mm-services__title">Gates, grills &amp; railings</span>
+                                                <span class="mm-services__desc">Grills, handrails &amp; gates</span>
+                                            </span>
+                                        </a>
+                                    </li>
+                                    <li class="mm-services__item">
+                                        <a href="{{ url('/services#custom-fabrication') }}">
+                                            <span class="mm-services__icon"><i class="fa fa-cogs"></i></span>
+                                            <span class="mm-services__body">
+                                                <span class="mm-services__title">Custom heavy fabrication</span>
+                                                <span class="mm-services__desc">Built to your drawing</span>
+                                            </span>
+                                        </a>
+                                    </li>
+                                    <li class="mm-services__all">
+                                        <a href="{{ url('/services') }}">View all services <i class="fa fa-arrow-right"></i></a>
+                                    </li>
                                 </ul>
                             </li>
                             <li>
